@@ -1,0 +1,687 @@
+﻿ID;Nombre;Dirección;Localización;Tipo;Horario;Ciudad
+1;Cafetería La Ibense;Sagasta, 2 (Pl. del Salvador);37.390254,-5.993292;Establecimiento;;Sevilla
+2;Restaurante Barbiana;Albareda, 11;37.389358,-5.995487;Establecimiento;;Sevilla
+3;Mesón Don Raimundo;Argote de Molina, 26;37.387852,-5.992247;Establecimiento;;Sevilla
+4;El Rincocillo;Gerona, 40;37.393371,-5.988295;Establecimiento;;Sevilla
+5;Bodega Los Soportales;Plaza del Salvador, 7;37.389893,-5.993229;Establecimiento;;Sevilla
+6;Bodega Góngora;Albareda, 5;37.389542,-5.994772;Establecimiento;;Sevilla
+7;La Despensa der Fede;Beatriz de Suabia, 61;37.384265,-5.966707;Establecimiento;;Sevilla
+8;Peña Cultural Bética Vicente Montiel;Avda. Pío XII, 32;37.300857,-6.297515;Establecimiento;;Pilas
+9;GUIRAO`S;Avicenas, 17 local 2;37.405588,-5.993773;Establecimiento;;Sevilla
+10;Café Bar El Llamador;Virgen de la Soledad, 1;37.301169,-6.301959;Establecimiento;;Pilas
+11;Pizzería Vera;Doce de Octubre, 23;37.304624,-6.293014;Establecimiento;;Pilas
+12;Ayuntamiento de Bormujos;Plaza de Andalucía, s/n;37.372338,-6.07109;CentroPublico;L-V 8:00 a 15:00;Bormujos
+13;Centro Cultural La Atarazana;C/La Atarazana, 0;37.370231,-6.071479;CentroPublico;L-V 08:00 a 21:00 y S 09:00 a 14:00;Bormujos
+14;Hacienda de Belén;C/Almijara, s/n;37.369204,-6.073258;CentroPublico;L-V 08:00 a 15:00 y de 16:00 a 20:00;Bormujos
+15;Casa de la Tercera Edad Dr. José Pérez Vega;C/Duque de Rivas, 74;37.37406,-6.07636;CentroPublico;L-V 08:00 a 15:00;Bormujos
+16;Centro de Formación Excmo. Ayto. De Bormujos;Avda. Mairena del Aljarafe, 56;37.36812,-6.07278;CentroPublico;L-V 08:00 a 15:00 y de 16:00 a 20:00;Bormujos
+17;Centro de salud Doctor Pérez Vega;Avda. Juan Diego, 25;37.37565,-6.0742;CentroPublico;L-V 08:00 a 19:00;Bormujos
+18;Escuela Municipal de Música y Danza;Avda. de Almargen, 27;37.37262,-6.064999;CentroPublico;L-V 16:00 a 20:00;Bormujos
+19;Polideportivo de Bormujos;C/Hernán Cortes, 0;37.37577,-6.06403;CentroPublico;L-V 08:00 a 00:00, S 08:00 a 22:00 y D 08:00 a 15:00;Bormujos
+20;Pabellón Municipal;C/José Luis Caro, 29;37.37439,-6.07364;CentroPublico;L-V 16:00 a 20:00;Bormujos
+21;Parque Municipal La Arquería;C/Libertades, s/n;37.36273,-6.07674;CentroPublico;L-V 09:00 a 14:00 y 16:00 a 23:00 SyD 16:00 a 23:00;Bormujos
+22;Parque Municipal La Portada;C/La Paz, s/n;37.36535,-6.0812;CentroPublico;L-V 09:00 a 14:00 y 16:00 a 23:00 SyD 16:00 a 23:00;Bormujos
+23;Parque Municipal Los Álamos;C/Pablo Coso Calero, s/n;37.37095,-6.07449;CentroPublico;L-V 09:00 a 14:00 y 16:00 a 23:00 SyD 16:00 a 23:00;Bormujos
+24;Parque Municipal La Florida;C/Madre Teresa de Calcuta, s/n;37.36897,-6.06605;CentroPublico;L-V 09:00 a 14:00 y 16:00 a 23:00 SyD 16:00 a 23:00;Bormujos
+25;Parque Municipal Carlos Cano;C/Hernán Cortes, s/n;37.37577,-6.06403;CentroPublico;L-V 09:00 a 14:00 y 16:00 a 23:00 SyD 16:00 a 23:00;Bormujos
+26;Bar Hermanos Costaleros;Alejandro Collantes, 54;37.384159,-5.963041;Establecimiento;;Sevilla
+27;Bar Elio;Cristo de la Sed, 97;37.382854,-5.961104;Establecimiento;;Sevilla
+28;Cantina Rosarito;Gorrión, 2;37.387028,-5.95725;Establecimiento;;Sevilla
+29;Casa Consistorial;C/ El Salvador, 2;37.472478,-5.638084;CentroPublico;;Carmona
+30;Actividades y otros;Pza San Fernando, 14;37.472796,-5.638687;CentroPublico;;Carmona
+31;Colegio público San Blas;Calle Ctra. de Brenes, s/nº;37.474541,-5.645511;CentroPublico;;Carmona
+32;Colegio público Cervantes;Ronda León de San Francisco, s/n.;37.47119,-5.647673;CentroPublico;;Carmona
+33;Colegio público El Almendral;c/. Manuel de Falla, 1;37.463278,-5.64486;CentroPublico;;Carmona
+34;Colegio público Guadajoz;Barriada Guadajoz, S/N.;37.580088,-5.668411;CentroPublico;;Carmona
+35;Colegio público Pedro I;c/. Barranquillo, 1;37.476699,-5.634996;CentroPublico;;Carmona
+36;Edificio sito en Plaza de Abastos;C/ Domínguez de la haza, s/n;37.47169,-5.638269;CentroPublico;;Carmona
+37;Centro de tratamiento de adicciones.;C/ Ahumada, s/n.;37.46962,-5.63828;CentroPublico;;Carmona
+38;Centro ocupacional El Alcázar.;C/ Camino de Marruecos, s/n.;37.476939,-5.645111;CentroPublico;;Carmona
+39;Escuela Infantil “Amapola”.;Avda Peña la Giraldilla.;37.4751,-5.643383;CentroPublico;;Sevilla
+40;Residencia Municipal San Pedro.;C/ San Pedro, s/n;37.471014,-5.643392;CentroPublico;;Carmona
+41;Jefatura de la Policía Local;C/ Carmen Llorca, s/n;37.475675,-5.64637;CentroPublico;;Carmona
+42;Aula de Música;Avda de la Estación s/n.;37.474899,-5.645168;CentroPublico;;Carmona
+43;Casa de la Cultura.;Plaza de las Descalzas, s/n.;37.47401,-5.637907;CentroPublico;;Carmona
+44;Taller cultural Centro el Alcázar;C/ camino de Marruecos, s/n.;37.47688,-5.64581;CentroPublico;;Carmona
+45;Biblioteca.;C/ Domínguez de la haza, s/n;37.471046,-5.639893;CentroPublico;;Carmona
+46;Biblioteca Guadajoz,;Pza. De la Iglesia, s/n;37.476524,-5.648141;CentroPublico;;Carmona
+47;Museo de la Ciudad de Carmona.;C/ San Ildefonso, s/n;37.4733,-5.63682;CentroPublico;;Carmona
+48;Teatro Cerezo.;Paseo del Estatuto, 30;37.47053,-5.643492;CentroPublico;;Carmona
+49;Pabellón municipal Andrés Jiménez;C/ Cristóbal Colón, s/n.;37.464424,-5.648584;CentroPublico;;Carmona
+50;Pabellón municipal “Pepe Rivas”;C/ Camino de Marruecos, s/n.;37.476536,-5.644812;CentroPublico;;Carmona
+51;Complejo deportivo municipal José Domínguez Olías;Ctra. Carmona-Viso del Alcor s/;37.457852,-5.656482;CentroPublico;;Carmona
+52;Area juventud, deportes y comunicación.;C/ Camino de Marruecos, s/n.;37.476865,-5.645166;CentroPublico;;Carmona
+53;Area Igualdad;C/ Fuente Viñas, s/n.;37.471254,-5.64429;CentroPublico;;Carmona
+54;Cementerio.;Ctra Carmona-Lora;37.484874,-5.643427;CentroPublico;;Carmona
+55;Edificio de Limancar;Políg. Industrial Brenes. Calle C parcela 82;37.462311,-5.65777;CentroPublico;;Carmona
+56;Edificio de Servicios Sociales.;C/ Anfiteatro, 44;37.469862,-5.652885;CentroPublico;;Carmona
+57;Colegio público Preescolar El Real;Alfonso X El Sabio, 7;37.46524,-5.645127;CentroPublico;;Carmona
+58;Taller cultural Matadero;Ronda del Matadero, s/n.;37.470354,-5.640909;CentroPublico;;Carmona
+59;Taller cultural El Real;Alfonso X El Sabio, 4;37.465149,-5.645148;CentroPublico;;Carmona
+60;Taller cultural Centro el Alcázar;Extramuros de Santiago, 7;37.474618,-5.633222;CentroPublico;;Carmona
+61;Confitería San Joaquín;Asunción, 18;37.378245,-5.997953;Establecimiento;;Sevilla
+62;Bar Bodegón;Virgen de Luján, 45;37.374459,-6.002577;Establecimiento;;Sevilla
+63;Bar los Cántaros;Santa Fé, 9;37.374925,-6.004472;Establecimiento;;Sevilla
+64;Café Bar Jimmy`s;Montecarmelo, 14;37.377758,-5.997014;Establecimiento;;Sevilla
+65;Café de Indias;Virgen de Luján, 17;37.374636,-5.998159;Establecimiento;;Sevilla
+66;Mr. Pizza;Av. República Argentina, 12 B;37.379408,-5.999521;Establecimiento;;Sevilla
+67;Café de Indias;Av. República Argentina, 26;37.377965,-6.002099;Establecimiento;;Sevilla
+68;Badá Café Bar;Plaza del Ayuntamiento, Local 5;37.37436,-6.04444;Establecimiento;;Tomares
+69;Casa Caracole;Clara Campoamor, 20;37.37511,-6.04476;Establecimiento;;Tomares
+70;El Americano;Plaza del Ayuntamiento, s/n.;37.3742,-6.04475;Establecimiento;;Tomares
+71;Taberna Giralda;Colón, 3;37.37599,-6.04573;Establecimiento;;Tomares
+72;Talleres Molvilcar La Negrilla, S.L.;Celulosa, 56 (P.I. La Negrilla);37.38116,-5.93168;Establecimiento;;Sevilla
+73;Bar Los Caños;Gorrión, 2;37.38692,-5.95809;Establecimiento;;Sevilla
+74;Bar Timanfaya;Avda. Ciudad Jardín, 79;37.37741,-5.96617;Establecimiento;;Sevilla
+75;Bar Los Puertos;Avda. de los Gavilanes, 22, Acc. A;37.376281,-5.952647;Establecimiento;;Sevilla
+76;Centro Deportivo BELLAVISTA;C/ GASPAR CALDERAS S/N;37.324,-5.97151;CentroPublico;;Sevilla
+77;Centro Deportivo BELLAVISTA;C/ GASPAR CALDERAS S/N;37.324,-5.97151;CentroPublico;;Sevilla
+78;Centro Deportivo BELLAVISTA;C/ GASPAR CALDERAS S/N;37.324,-5.97151;CentroPublico;;Sevilla
+79;Centro Deportivo BERMEJALES I;AVDA VIRGEN DE LA ESPERANZA, 58;37.34877,-5.98302;CentroPublico;;Sevilla
+80;Centro Deportivo BERMEJALES II;C/ BOLONIA, 3;37.34752,-5.9812;CentroPublico;;Sevilla
+81;Centro Deportivo IFNI;C/ IFNI, 1;37.35491,-5.98269;CentroPublico;;Sevilla
+82;Centro Deportivo IFNI;C/ IFNI, 1;37.35491,-5.98269;CentroPublico;;Sevilla
+83;Centro Deportivo ARJONA;C/ JÁNDALO S/N;37.39034,-6.00554;CentroPublico;;Sevilla
+84;Centro Deportivo LA FUNDICIÓN;C/ CRÉDITO 3B;37.4009,-5.99473;CentroPublico;;Sevilla
+85;Centro Deportivo MENDIGORRÍA;C/ CLAVIJO 11.;37.40048,-5.99694;CentroPublico;;Sevilla
+86;Centro Deportivo SAN LUIS;C/ SAN LUIS 29;37.39764,-5.98791;CentroPublico;;Sevilla
+87;Centro Deportivo C.A.N. TELECABINA;C/ JÁNDALO S/N. PASEO JUAN CARLOS I, S/N.;37.4014,-5.99873;CentroPublico;;Sevilla
+88;Centro Deportivo AMATE;AVDA LA REVOLTOSA S/N;37.37868,-5.9474;CentroPublico;;Sevilla
+89;Centro Deportivo AMATE;AVDA LA REVOLTOSA S/N;37.37868,-5.9474;CentroPublico;;Sevilla
+90;Centro Deportivo BOLLULLOS;C/ BOLLULLOS, 4;37.36885,-5.94138;CentroPublico;;Sevilla
+91;Centro Deportivo HYTASA;AVDA HYTASA, 10;37.371347,-5.96151;CentroPublico;;Sevilla
+92;Centro Deportivo HYTASA;AVDA HYTASA, 10;37.371347,-5.96151;CentroPublico;;Sevilla
+93;Centro Deportivo HYTASA;AVDA HYTASA, 10;37.371347,-5.96151;CentroPublico;;Sevilla
+94;Centro Deportivo HYTASA;AVDA HYTASA, 10;37.371347,-5.96151;CentroPublico;;Sevilla
+95;Centro Deportivo HYTASA;AVDA HYTASA, 10;37.371347,-5.96151;CentroPublico;;Sevilla
+96;Centro Deportivo HYTASA;AVDA HYTASA, 10;37.371347,-5.96151;CentroPublico;;Sevilla
+97;Centro Deportivo JOSÉ Mª VAZ (LA MÚSICA);C/ CÁRMEN VENDRELL, S/N;37.36683,-5.94716;CentroPublico;;Sevilla
+98;Centro Deportivo LA DOCTORA-PADRE PIO;C/ LAS NAVAS , 3;37.37359,-5.94076;CentroPublico;;Sevilla
+99;Centro Deportivo LA RANILLA;C/ TORVIZCON, S/N;37.37723,-5.93463;CentroPublico;;Sevilla
+100;Centro Deportivo PARQUE AMATE;AVDA LA REVOLTOSA S/N;37.37868,-5.9474;CentroPublico;;Sevilla
+101;Centro Deportivo PARQUE AMATE;AVDA LA REVOLTOSA S/N;37.37868,-5.9474;CentroPublico;;Sevilla
+102;Centro Deportivo ROCHELAMBERT;C/ Dª FRANCISQUITA, 2B;37.37312,-5.95129;CentroPublico;;Sevilla
+103;Centro Deportivo ROCHELAMBERT;C/ Dª FRANCISQUITA, 2B;37.37312,-5.95129;CentroPublico;;Sevilla
+104;Centro Deportivo ALCOSA;AVDA SÉNECA, 1;37.41372,-5.92812;CentroPublico;;Sevilla
+105;Centro Deportivo ALCOSA;AVDA SÉNECA, 1;37.41372,-5.92812;CentroPublico;;Sevilla
+106;Centro Deportivo ALCOSA;AVDA SÉNECA, 1;37.41372,-5.92812;CentroPublico;;Sevilla
+107;Centro Deportivo ALCOSA;AVDA SÉNECA, 1;37.41372,-5.92812;CentroPublico;;Sevilla
+108;Centro Deportivo ANDALUCÍA ESTE;C/ DR MIGUEL RIOS SARMIENTO, 3;37.39361,-5.92744;CentroPublico;;Sevilla
+109;Centro Deportivo BLAS INFANTE;C/ DR MIGUEL RIOS SARMIENTO, S/N;37.39361,-5.92744;CentroPublico;;Sevilla
+110;Centro Deportivo BLAS INFANTE;C/ DR MIGUEL RIOS SARMIENTO, S/N;37.39361,-5.92744;CentroPublico;;Sevilla
+111;Centro Deportivo DEMETRIO PICHEL;C/ CUEVA DE ALTAMIRA S/N;37.39704,-5.9419;CentroPublico;;Sevilla
+112;Centro Deportivo ENTREFLORES;C/FLOR DE LA RETAMA, 4;37.39715,-5.91844;CentroPublico;;Sevilla
+113;Centro Deportivo ENTREPUENTES (SUPERA);C/ CUEVA DE LA PILETA, 8;37.40232,-5.93871;CentroPublico;;Sevilla
+114;Centro Deportivo LOS CAÑOS DE TORREBLANCA;C/ FEDERICO DE CASTRO BRAVO, 1;37.38031,-5.91025;CentroPublico;;Sevilla
+115;Centro Deportivo ONTUR;C/ ONTUR .3;37.41071,-5.92355;CentroPublico;;Sevilla
+116;Centro Deportivo SAN ANTONIO DRAGO;C/ DRAGO, 2;37.38134,-5.90049;CentroPublico;;Sevilla
+117;Centro Deportivo SENDAI;C/ HIROSHIMA, 1;37.40655,-5.91786;CentroPublico;;Sevilla
+118;Centro Deportivo SEVILLA ESTE;AVDA DEL DEPORTE, 6;37.391,-5.91386;CentroPublico;;Sevilla
+119;Centro Deportivo TORREBLANCA;C/ PRÍNCIPE DE ASTURIAS, 1;37.38187,-5.91145;CentroPublico;;Sevilla
+120;Centro Deportivo PARQUE DE LOS PRÍNCIPES;AVDA DE ALFREDO KRAUS, 5;37.37183,-6.00465;CentroPublico;;Sevilla
+121;Centro Deportivo BEGOÑA;C/ CONSTANTINA, 19;37.40788,-5.97576;CentroPublico;;Sevilla
+122;Centro Deportivo LAS GOLONDRINAS;C/ DOCTOR PEDRO ALBERT S/N;37.41055,-5.9898;CentroPublico;;Sevilla
+123;Centro Deportivo REMO GUADALQUIVIR;BAJOS PASEO REY JUAN CARLOS I, S/N;37.4014,-5.99873;CentroPublico;;Sevilla
+124;Centro Deportivo VIRGEN DE LOS REYES;C/ SAN JUAN DE RIBERA, 12. C/ MANZANA, 2;37.40641,-5.98544;CentroPublico;;Sevilla
+125;Centro Deportivo ANTONIO PUERTA (CIUDAD JARDIN);C/ FRANCISCO BUENDIA, 2;37.376896,-5.963128;CentroPublico;;Sevilla
+126;Centro Deportivo PISCINAS SEVILLA;AVDA CIUDAD JARDIN, 81;37.37658,-5.9665;CentroPublico;;Sevilla
+127;Centro Deportivo AEROPUERTO VIEJO;C/ ARMILLA, 1;37.42323,-5.93391;CentroPublico;;Sevilla
+128;Centro Deportivo CORVINA;C/ CORVINA S/N;37.42781,-5.98391;CentroPublico;;Sevilla
+129;Centro Deportivo HIGUERÓN SUR;C/ GANÍMEDES, 6;37.43475,-5.97147;CentroPublico;;Sevilla
+130;Centro Deportivo HUERTA DEL PEREJIL;C/ ESTAFETA S/N;37.41547,-5.97131;CentroPublico;;Sevilla
+131;Centro Deportivo JOAQUÍN CLAVIJO (PARQUE SAN JERÓNIMO);C/JOSÉ GALÁN MERINO S/N;37.42079,-5.98717;CentroPublico;;Sevilla
+132;Centro Deportivo JOSE LOPEZ SOTO (LOS CORRALES);C/ CORRAL LOS BARQUILLEROS, 1;37.419679,-5.968869;CentroPublico;;Sevilla
+133;Centro Deportivo LAS ALMENAS;C/ CORTIJO DE LA ALBARRANA S/N;37.41624,-5.96467;CentroPublico;;Sevilla
+134;Centro Deportivo LOS MARES;C/ CORRAL DE LA CARIDAD S/N;37.41918,-5.97066;CentroPublico;;Sevilla
+135;Centro Deportivo LOS MARES, SWIMMING FITNESS CENTER;C/ MAR DE ALBORAN, 2;37.41879,-5.96841;CentroPublico;;Sevilla
+136;Centro Deportivo PINO MONTANO;AVDA CORTIJO DE LAS CASILLAS S/N;37.42122,-5.96027;CentroPublico;;Sevilla
+137;Centro Deportivo PINO MONTANO;AVDA CORTIJO DE LAS CASILLAS S/N;37.42122,-5.96027;CentroPublico;;Sevilla
+138;Centro Deportivo SAN DIEGO;AVDA MUJER TRABAJADORA S/N;37.41011,-5.96878;CentroPublico;;Sevilla
+139;Centro Deportivo SAN JERÓNIMO PUENTE PISCINA FCO. TABUENCA Y PISTAS DEPORTIVAS);C/ MEDINA Y GALNARES, 4;37.42388,-5.98227;CentroPublico;;Sevilla
+140;Centro Deportivo SAN JERÓNIMO PUENTE PISCINA FCO. TABUENCA Y PISTAS DEPORTIVAS);C/ MEDINA Y GALNARES, 4;37.42388,-5.98227;CentroPublico;;Sevilla
+141;Centro Deportivo SAN JERONIMO RUGBY;C/MEDINA Y GALNARES, S/N;37.42768,-5.98139;CentroPublico;;Sevilla
+142;Centro Deportivo VALDEZORRAS;C/ VEREDA DEL POCO ACEITE, 51;37.43081,-5.92808;CentroPublico;;Sevilla
+143;Centro Deportivo CALAVERA;C/ HESPÉRIDES, 2;37.4,-5.96735;CentroPublico;;Sevilla
+144;Centro Deportivo LA ROSALEDA;C/ MAETRO SOLANO, 4;37.40013,-5.97488;CentroPublico;;Sevilla
+145;Centro Deportivo SAN PABLO;C/ DOCTOR LAFFON SOTO, 1;37.39653,-5.96257;CentroPublico;;Sevilla
+146;Centro Deportivo SAN PABLO;C/ DOCTOR LAFFON SOTO, 1;37.39653,-5.96257;CentroPublico;;Sevilla
+147;Centro Deportivo SAN PABLO;C/ DOCTOR LAFFON SOTO, 1;37.39653,-5.96257;CentroPublico;;Sevilla
+148;Centro Deportivo SAN PABLO FÚTBOL (PILAR);C/ TESALÓNICA S/N;37.39339,-5.95763;CentroPublico;;Sevilla
+149;Centro Deportivo SANTA JUSTA I (FÚTBOL);C/ URQUIZA, 20;37.39418,-5.97949;CentroPublico;;Sevilla
+150;Centro Deportivo SANTA JUSTA II;GLORIETA JULIÁN BESTEIRO S/N;37.39177,-5.97828;CentroPublico;;Sevilla
+151;Centro Deportivo SANTA CLARA;C/ FRAY MARCOS DE NIZA S/N;37.40222,-5.954;CentroPublico;;Sevilla
+152;Centro Deportivo TARTESSOS;C/ GERIÓN, 2 ACC.;37.39839,-5.97109;CentroPublico;;Sevilla
+153;Centro Deportivo BAMI;C/ LUIS ROSALES S/N;37.36754,-5.97789;CentroPublico;;Sevilla
+154;Centro Deportivo EL PORVENIR;AVDA CARDENAL BUENO MONREAL, 38;37.36896,-5.98108;CentroPublico;;Sevilla
+155;Centro Deportivo LA UNIÓN LA OLIVA;C/ AMARANTO S/N;37.36389,-5.97163;CentroPublico;;Sevilla
+156;Centro Deportivo POLÍGONO SUR (LA PAZ);C/.REINA DE LA PAZ S/N;37.3628,-5.96374;CentroPublico;;Sevilla
+157;Centro Deportivo POLÍGONO SUR (LA PAZ);C/.REINA DE LA PAZ S/N;37.3628,-5.96374;CentroPublico;;Sevilla
+158;Centro Deportivo SEVILLA 3000;C/ EL MAGO DE OZ, 3;37.35763,-5.97143;CentroPublico;;Sevilla
+159;Centro Deportivo SEVILLA 3000;C/ EL MAGO DE OZ, 3;37.35763,-5.97143;CentroPublico;;Sevilla
+160;Centro Deportivo SEVILLA 3000;C/ EL MAGO DE OZ, 3;37.35763,-5.97143;CentroPublico;;Sevilla
+161;Centro Deportivo TENIS BETIS;C/ SAN SALVADOR, 23;37.37444,-5.98048;CentroPublico;;Sevilla
+162;Centro Deportivo TENIS BETIS;C/ SAN SALVADOR, 23;37.37444,-5.98048;CentroPublico;;Sevilla
+163;Centro Deportivo TIRO DE LÍNEA;C/ LORA DEL RIO, 1.;37.36944,-5.97421;CentroPublico;;Sevilla
+164;Centro Deportivo TIRO DE LÍNEA;C/ LORA DEL RIO, 1.;37.36944,-5.97421;CentroPublico;;Sevilla
+165;Centro Deportivo ANTONIO ALVAREZ GORDÓN (TEJARES);AVDA RONDA DE TRIANA, 5;37.38815,-6.01055;CentroPublico;;Sevilla
+166;Centro Deportivo EL PARAGUAS;PZA MONTE PIROLO S/N;37.38386,-6.00757;CentroPublico;;Sevilla
+167;Centro Deportivo HISPANO AVIACIÓN;PZA MONTE PIROLO, 3;37.38382,-6.00774;CentroPublico;;Sevilla
+168;Centro Deportivo MAR DEL PLATA I (PABELLÓN);C/ MAR DEL PLATA, 2. ACC A;37.37714,-6.00735;CentroPublico;;Sevilla
+169;Centro Deportivo MAR DEL PLATA II (PISCINA GUADALQUIVIR);C/ MAR DEL PLATA, 2. ACC B;37.37714,-6.00735;CentroPublico;;Sevilla
+170;Centro Deportivo C.A.N. TRIANA;PARQUE DE MAGALLANES, S/N;37.37418,-5.98907;CentroPublico;;Sevilla
+171;Centro Deportivo VEGA DE TRIANA;PARQUE VEGA DE TRIANA S/N;37.38079,-5.99923;CentroPublico;;Sevilla
+172;Distrito Cerro-Amate;Avda. S. Juan de la Cruz esq. Juan XXIII, s/n.;37.37921,-5.95667;CentroPublico;;Sevilla
+173;Distrito Triana;San Jacinto, 33;37.38404,-6.00452;CentroPublico;;Sevilla
+174;Distrito Sur;Jorge Guillén, s/n;37.37104,-5.97967;CentroPublico;;Sevilla
+175;Distrito Los Remedios;Avda. R. Argentina, 27-B;37.37741,-6.00255;CentroPublico;;Sevilla
+176;Distrito Bellavista-Su Eminencia;Avda. de Jerez, 61;37.327494,-5.966611;CentroPublico;;Sevilla
+177;Distrito Casco Antigüo;Crédito 11;37.40159,-5.99447;CentroPublico;;Sevilla
+178;Distrito Nervión;Avda. Cruz del Campo, 38-A;37.38491,-5.96561;CentroPublico;;Sevilla
+179;Distrito Macarena;Manuel Villalobos, s/n;37.40532,-5.98158;CentroPublico;;Sevilla
+180;Distrito San Pablo-Santa Justa;Jerusalén, s/n;37.39453,-5.96043;CentroPublico;;Sevilla
+181;Distrito Norte;Estrella Proción, 8;37.42537,-5.96802;CentroPublico;;Sevilla
+182;Centro Cívico El Esqueleto;Luis Ortiz Múñoz, s/n.;37.35747,-5.96737;CentroPublico;;Sevilla
+183;Centro Cívico Torre del Agua;Pl. Vicente Aleixandre, s/n.;37.36945,-5.97998;CentroPublico;;Sevilla
+184;Centro Cívico Bellavista;Asencio Toledo, 7;37.324925,-5.966104;CentroPublico;;Sevilla
+185;Centro Cívico S. Pablo-Sta. Justa;Menippo, s/n;37.39356,-5.96407;CentroPublico;;Sevilla
+186;Centro Cívico La Buhaira;Avda. de la Buhaira, s/n;37.38145,-5.97969;CentroPublico;;Sevilla
+187;Centro Cívico Blas Infante;Urb. Entreflores, C/.Flor de Retama, 1;37.39693,-5.9187;CentroPublico;;Sevilla
+188;Centro Cívico Cerro del Águila;Salvador Távora, s/n;37.36997,-5.96151;CentroPublico;;Sevilla
+189;Centro Cívico Su Eminencia;Avda. de la Plata, s/n;37.37307,-5.94576;CentroPublico;;Sevilla
+190;Centro Cívico Torreblanca (Juan Antonio González Caraballo);Plaza Salvador Valverde, s/n;37.38246,-5.90216;CentroPublico;;Sevilla
+191;Centro Cívico El Tejar del Mellizo;Santa Fé, 2;37.37523,-6.00518;CentroPublico;;Sevilla
+192;Centro Cívico Las Columnas;Pureza, 79;37.38315,-6.00023;CentroPublico;;Sevilla
+193;Centro Cívico S. Jerónimo. Antonio Brioso;Boquerón, s/n;37.42631,-5.98347;CentroPublico;;Sevilla
+194;Centro Cívico Monasterio de S. Jerónimo;Río Piedras, s/n;37.4229,-5.98657;CentroPublico;;Sevilla
+195;Centro Cívico Los Carteros;Avda. Pino Montano, 31;37.41153,-5.97113;CentroPublico;;Sevilla
+196;Centro Cívico Entreparques;Parque de Grazalema, s/n;37.41696,-5.96815;CentroPublico;;Sevilla
+197;Centro Cívico Las Sirenas;Alameda de Hércules, 30;37.39837,-5.9943;CentroPublico;;Sevilla
+198;Centro Cívico S. Julián;Ronda de Capuchinos, 4 bajo;37.3996,-5.98384;CentroPublico;;Sevilla
+199;Centro Cívico Hogar San Fernando;Don Fadrique, 57-59;37.40489,-5.98976;CentroPublico;;Sevilla
+200;Centro Cívico Edificio El Cubo (Anexo CC. San Fernando);Doctor Pedro Albert, s/n;37.41055,-5.9898;CentroPublico;;Sevilla
+201;Centro Cívico Sindicalistas Soto, Saborido y Acosta;Mariano Benlliure, s/n;37.38417,-5.96242;CentroPublico;;Sevilla
+202;U.P.S Bellavista-La Palmera,;Avda. del Reino Unido, 6;37.34986,-5.97752;CentroPublico;;Sevilla
+203;U.P.S Casco Antigüo,;Cruz Verde, 22;37.34986,-5.97752;CentroPublico;;Sevilla
+204;U.P.S Cerro-Amate-Rochelambert,;Plaza Dr. Andreu Urra, s/n;37.38567,-5.9904;CentroPublico;;Sevilla
+205;U.P.S Este-Alcosa-Torreblanca,;Japón s/n, esquina C/ Vietnam, s/n;37.40776,-5.91362;CentroPublico;;Sevilla
+206;U.P.S Macarena, Hogar Virgen de Los Reyes,;Fray Isidoro de Sevilla, s/n 1ª planta, módulo 118.;37.4039,-5.98395;CentroPublico;;Sevilla
+207;U.P.S Nervión,;Goya, 19 bajo;37.38506,-5.96886;CentroPublico;;Sevilla
+208;U.P.S Norte,;Mejillón, 65 (Centro Mumpal SS. Sociales);37.43062,-5.9816;CentroPublico;;Sevilla
+209;U.P.S S. Pablo-Sta. Justa,;Mª. Auxiliadora, 16 (Laboratorio Municipal);37.39557,-5.98249;CentroPublico;;Sevilla
+210;U.P.S Sur,;Luis Ortiz Múñoz, s/n (C.C. El Esqueleto);37.35747,-5.96737;CentroPublico;;Sevilla
+211;U.P.S Triana-Los Remedios,;San Jacinto, 23.;37.38432,-6.00412;CentroPublico;;Sevilla
+212;U.P.S Macarena,;Fray Isidoro de Sevilla, 1 (Virgen de los Reyes);37.40454,-5.98553;CentroPublico;;Sevilla
+213;U.P.S Casco Antigüo,;Arrayán, 1 (Palacio Marqueses de la Algaba);37.39928,-5.99086;CentroPublico;;Sevilla
+214;U.P.S Triana-Los Remedios,;San Jacinto, 27;37.38426,-6.00416;CentroPublico;;Sevilla
+215;U.P.S Alcosa-Polígono Aeropuerto,;Avda. de las Ciencias, 43 B;37.3998,-5.92666;CentroPublico;;Sevilla
+216;U.P.S Cerro-Su Eminencia,;Tarragona, 3;37.37548,-5.95806;CentroPublico;;Sevilla
+217;U.P.S Torreblanca,;Mitra, s/n;37.38438,-5.91269;CentroPublico;;Sevilla
+218;U.P.S San Jerónimo,;Mejillón, 65;37.43062,-5.9816;CentroPublico;;Sevilla
+219;U.P.S Polígono Norte,;Fray Isidoro de Sevilla, 1 (Virgen de los Reyes);37.4039,-5.98395;CentroPublico;;Sevilla
+220;U.P.S Nervión,;Marqués de Nervión, 75;37.37979,-5.96862;CentroPublico;;Sevilla
+221;U.P.S Bermejales,;Avda. del Reino Unido, 6;37.34986,-5.97752;CentroPublico;;Sevilla
+222;U.P.S Polígono Sur,;Avda. de la Paz, s/n;37.36727,-5.96661;CentroPublico;;Sevilla
+223;U.P.S Tres Barrios-Amate,;Plaza Doctor Andreu Urra, s/n;37.38567,-5.9904;CentroPublico;;Sevilla
+224;U.P.S Personas en exclusión social y sin hogar;Perafán de Rivera, s/n;37.40566,-5.99123;CentroPublico;;Sevilla
+225;U.P.S Población Chabolista, Modular del Vacie;Prolongación Huerta de la Fontanilla, s/n;37.41468,-5.98034;CentroPublico;;Sevilla
+226;Mesón Navarro;Plaza Santísimo Sacramento, 3;37.415798,-6.076757;Establecimiento;;Valencina de la Concepción (Sevilla)
+227;Abacería La Morada;Manuel de Falla, 27;37.416882,-6.077914;Establecimiento;;Valencina de la Concepción (Sevilla)
+228;Ayuntamiento de Alcalá del río;C/ Plaza de España. 1;37.518153,-5.978529;CentroPublico;Lunes a viernes, de 8:00 a 15:00 h;Alcalá del Río(Sevilla)
+229;Casa de la Cultura;C/ Virgen de la Esperanza, s/n;37.516961,-5.978361;CentroPublico;L - V, 8:00 a 14.30 y 17. a 22. h   S, 9.00 a 14.00h;Alcalá del Río(Sevilla)
+230;Casa de la Juventud;C/ Juan Ramón Jiménez, 2;37.517245,-5.980717;CentroPublico;L - V, de 9:00 a 14.00 y M - S de 17.00 a 22.00 h;Alcalá del Río (Sevilla)
+231;Centro de Participación Activa de Mayores;C/ Asunción, 1;37.521507,-5.98368;CentroPublico;L - D de 9:00 a 14:00 h y de 17:00 a 21:00h;Alcalá del Río (Sevilla)
+232;Ag. de Desarrollo Social (Servicios Sociales);C/ Real de Castilla, 1;37.517142,-5.980192;CentroPublico;Horario: Lunes a Viernes, de 9:00 a 14:00h;Alcalá del Río (Sevilla)
+233;Polideportivo Municipal Huerta del Rey;C/ Huerta Grande,  s/n;37.516331,-5.987587;CentroPublico;Lunes a Viernes, de 16:00 a 22:00 h;Alcalá del Río (Sevilla)
+234;Polideportivo Municipal (Campo de fútbol);Ctra. Camino de San Ignacio s/n;37.522608,-5.985086;CentroPublico;L - V, 16:00 a 22:30, S de 9 a 20 h, D de 9 a 14 h;Acalá del Río (Sevilla)
+235;Pabellón Cubierto Municipal ;C/ Plaza de Artena, s/n;37.520841,-5.985688;CentroPublico;Horario: Lunes a Viernes, de 16:00 a 22:00h;Alcalá del Río (Sevilla)
+236;Arquidip Arquitectura;Seguiriya, 2;37.306512,-6.246968;Establecimiento;;Aznalcázar (Sevilla)
+237;Franco & Serrano Abogados;Pedro Mora, 12 - Bajo;37.303479,-6.250171;Establecimiento;;Aznalcázar (Sevilla)
+238;Omid Clínica Dental;Avda. de Cuba, 12 - local, 6;37.351761,-6.046868;Establecimiento;;Mairena del aljarafe (Sevilla)
+239;Ayuntamiento;Plaza Ntra. Sra. de la Estrella;37.416359,-6.076749;CentroPublico;L - V de 08:00 a 15:00 h.;Valencina de la Concepción
+240;Casa de la Cultura;Plaza de España, 10;37.417297,-6.07771;CentroPublico;L - V de 10:00 a 14:00 y de 16:00 a 20:00;Valencina de la Concepción
+241;Biblioteca Municipal;Plaza de España, 10;37.417297,-6.07771;CentroPublico;L - V de 16:00 a 20:00 y M y J también de 10:00 a 13:00;Valencina de la Concepción
+242;Juzgado de Paz;Reyes Católicos, 1;37.414728,-6.073999;CentroPublico;L - V de 09:00 a 14:00;Valencina de la Concepción
+243;Centro de Adultos;Cervantes, 1;37.41603,-6.077151;CentroPublico;L - V de 16:00 a 20:00 y M y J también de 10:00 a 13:00;Valencina de la Concepción
+244;Centro de Formación;Bulerías s/n.;37.414604,-6.082291;CentroPublico;L - V de 08:00 a 15:00 h.;Valencina de la Concepción
+245;Centro Guadalinfo;Bulerías s/n.;37.414344,-6.082213;CentroPublico;L - V de 08:00 a 15:00 h.;Valencina de la Concepción
+246;Centro de Salud;El Máquina s/n.;37.417084,-6.07744;CentroPublico;L - V de 08:00 a 20:00 h.;Valencina de la Concepción
+247;Escuela municipal de Música y Danza;Bulerías s/n.;37.414339,-6.082204;CentroPublico;L - V de 16:00 a 20:00;Valencina de la Concepción
+248;Polideportivo Municipal Diego de Paz;Ramón y Cajal, s/n.;37.42111,-6.073028;CentroPublico;L - V de 9 a 14 y de 16 a 22:30  S y D de 09 a 14;Valencina de la Concepción
+249;Pabellón Cubierto Municipal;Ramón y Cajal, s/n.;37.421159,-6.073153;CentroPublico;L - V de 9 a 14 y de 16 a 22:30  S y D de 09 a 14;Valencina de la Concepción
+250;Parque Municipal Matarrubilla;Maimónides, s/n;37.4119,-6.071823;CentroPublico;;Valencina de la Concepción
+251;Parque Municipal Av. de Andalucía;Avda. de Andalucía, s/n.;37.414472,-6.0734;CentroPublico;;Valencina de la Concepción
+252;Parque Municipal La Gallega;Dolmen de los Cabezuelos, s/n.;37.421977,-6.069124;CentroPublico;Verano de 10 a 14 y de 18 a 21:45;Valencina de la Concepción
+253;Parque Municipal Torrijos;;37.414358,-6.084566;CentroPublico;Invierno de 10 a 14 y de 16 a 19:45;Valencina de la Concepción
+254;Peluquería Miguel Delgado;Av. De Andalucía, 1 - B;37.41606,-6.07572;Establecimiento;09 a 14 y de 17 a 21 horas;Valencina de la Concepción
+255;La Porteña;San Jacinto, 38;37.384084,-6.005057;Establecimiento;12:00–16:00, 19:30–23:00;Sevilla
+256;Panadería Miriam;Carlos Cano, 23;37.127684,-6.166089;Establecimiento;09:00 - 14:00 y de 17:00 a 21:30;Isla Mayor (Sevilla)
+257;Restaurante Los Mercaderes;Álvarez Quintero, 13;37.389176,-5.993289;Establecimiento;Todos los días de 12 a 1;Sevilla
+258;Torero Cocina de Raza;Argote de Molina, 23;37.387544,-5.992191;Establecimiento;Todos los días de 12 a 3;Sevilla
+259;Torero Copas;Argote de Molina, 21;37.387584,-5.992204;Establecimiento;Todos los días de 12 a 3;Sevilla
+260;Bar Casa Aldana;Alfonso XI, 12;37.38038,-5.964803;Establecimiento;de 12:30–16:30 y de 20:00–24:00 los lunes cerrado;Sevilla
+261;Bar La Abundancia de Pino Montano;Corral del Agua, 7;37.42022,-5.972483;Establecimiento;;Sevilla
+262;La Gitana Loca - San Carlos;Corral del Agua, 7;37.400852,-5.971065;Establecimiento;;Sevilla
+263;Taberna Las Irlandesas;Tharsis, 1;37.398884,-5.973133;Establecimiento;de 08:00 a 0:00 todos los días;Sevilla
+264;Bar Cafetería San Carlos Uno;Manuel Vallejo, 2 ;37.399672,-5.972999;Establecimiento;;Sevilla
+265;Modas Alma;Paseo Sta. Mª de Guía, 5;37.133408,-6.166405;Establecimiento;;Isla Mayor (Sevilla)
+266;Ayuntamiento;Plaza García Lorca, 9 - 10;37.13156,-6.165036;CentroPublico;Lunes a Viernes  de 08:00 a 15:00 horas;Isla Mayor (Sevilla)
+267;Sede Ayuntamiento en Alfonso XIII;Concejal Julián Jiménez, s/n;37.167068,-6.134346;CentroPublico;Lunes a Viernes  de 08:00 a 15:00 horas;Poblado de Alfonso XIII (Isla Mayor)
+268;Centro Guadalinfo;Avda, Rafael Beca, 27;37.134204,-6.162436;CentroPublico;L,X,J,V de 09 a 14 h. y L,M,J  de 16 a 19 h.;Isla Mayor (Sevilla)
+269;Pistas Deportivas;Avda. de la Concordia, s/n.;37.127152,-6.167641;CentroPublico;L a V de 17 a 22 h, S y D de 10 a14 y de 17 a 22 h.;Isla Mayor (Sevilla)
+270;Restaurante La una y media - Casa Rufino;Mercedes de Velilla, 18;37.406972,-6.035641;Establecimiento;de 11:00-17:00 y de  20:00-0:00 h. lunes cerrado;Camas
+271;ACCU Sevilla - Asociación de Enfermos de Crohn y Colitis Ulcerosa;Plaza Pintor Amalio García del Moral, Bloque 11, Local 8;37.37756,-5.973724;CentroPublico;M y J de 18:00–20:00;Sevilla
+272;Ayuntamiento;Plaza del Cabildo, 1;37.301636,-6.302384;CentroPublico;"Lunes a  Viernes&nbsp; de 08:00 a 15:00 horas";Pilas
+273;Centro de Servicios Sociales;Marqués de Santillana, 68;37.301088,-6.292877;CentroPublico;"Lunes a Viernes&nbsp; de 08:00 a 15:00 horas";Pilas
+274;Piscina cubierta;Paseo de los Almendros, 31;37.29824,-6.302351;CentroPublico;L - V de 08:30 a 20:00 y Sábados de 10:00 a 13:00;Pilas
+275;Biblioteca Municipal;Antoniom Becerril, 22;37.303244,-6.303249;CentroPublico;L - V de 08:00 a 14:00 y de 17:00 a 20:30 horas;Pilas
+276;Escuela Municipal de Música y Danza;Plaza de America, s/n;37.303048,-6.29293;CentroPublico;"Lunes a Viernes&nbsp; de 16:00 a 20:00 horas";Pilas
+277;Centro Andaluz de Emprendimiento - Andalucia Orienta;Plaza de Isabel II, 3;37.302084,-6.305743;CentroPublico;"Lunes a Viernes&nbsp; de 08:00 a 15:00 horas";Pilas
+278;Centro de Salud;Plaza Isabel II, s/n.;37.302924,-6.305389;CentroPublico;L - J de 08:00 a 20:00 Viernes de 08:00 a 15:00;Pilas
+279;Polideportivo Municipal Francisco Correa Cuesta;Avda. del Aljarafe, s/n.;37.303588,-6.292515;CentroPublico;L - V de 07:30 a 14:00 y de 16:00 a 23:00 / S y D de 10:00 a 19:30;Pilas
+280;Pabellón Cubierto Municipal;Avda. Reina de las Marismas, 20;37.29734,-6.296426;CentroPublico;"Lunes a Viernes&nbsp; de 16:00 a 23:00 horas";Pilas
+281;Centro Social Barriada San José;Plaza Ntra. Sra. De los Reyes, s/n.;37.306944,-6.304626;CentroPublico;Lunes a Domingo de 09:00 a 13:00 y de 18:00 a 20:00;Pilas
+282;Tintorería, Lavandería Angel;Papelera, 23;37.132328,-6.165834;Establecimiento;;Isla Mayor
+283;Restaurante 12 Tapas;Párroco Antonio Pastor Portillo, 2;37.387544,-6.048034;Establecimiento;;Castilleja de la Cuesta
+284;Peña Sevillista Enrique Lora;Avda. del Aljarafe, 36;37.302344,-6.294575;Establecimiento;07:30 a 24:00;Pilas
+285;Bar La Pará de Doñana;Avda. del Aljarafe, 84;37.3028,-6.290995;Establecimiento;de 07:00 a 12:00 y de 16:00 a 21:00;Pilas
+286;Bar Restaurante Hnos. Galán;Avda. del Aljarafe, 38;37.302456,-6.294539;Establecimiento;;Pilas
+287;Taberna El Finito;María Auxiliadora, 13;37.300636,-6.300847;Establecimiento;;Pilas
+288;Clínica Veterinaria Roncal;Bodegas, 28;37.299328,-6.300847;Establecimiento;;Pilas
+289;Deimplant Amate;Avda. de los Gavilanes, 38;37.3749,-5.95325;Establecimiento;Lunes a viernes de 09:00 a 21:00;Sevilla
+290;Deimplant Clínica Dental;Colón,  29;37.38612,-6.081099;Establecimiento;Lunes a viernes de 09:00 a 21:00;Gines
+291;Deimplant Clínica Dental;Oriente, 1;37.33908,-6.14079;Establecimiento;Lunes a viernes de 09:00 a 21:00;Bollullos de la Mitación
+292;La Casa del Terapeuta;Avda. Jardín de las Delicias, 24 - local 2;37.490152,-5.936436;Establecimiento;Lunes a viernes de 10:30 a 14:00 y de 17:00 a 21:00;San José de la Rinconada
+293;Estación Metro Ciudad Expo;;37.349064,-6.05203;CentroPublico;;Mairena del Aljarafe
+294;Estación Metro San Juan Bajo;;37.366784,-6.025252;CentroPublico;;San Juan de Aznalfarache
+295;Estación Metro Puerta Jerez;;37.38192,-5.994238;CentroPublico;;Sevilla
+296;Estación Metro Cocheras;;37.368108,-5.951169;CentroPublico;;Sevilla
+297;Muebles Roblas;San Sebastian, 59;37.358316,-6.19946;Establecimiento;;Benacazón
+298;Pisa Clínica Dental;Comercio, 8 local 3;37.35322,-6.059936;Establecimiento;De lunes a viernes  de 10:00 a 14:00 y de 16:00 a 20:00;Mairena del Aljarafe
+299;Centro Óptico y Auditivo Las Nieves;Nueva, 9;37.352752,-6.1984;Establecimiento;L - J  09:30 a 13:30 y 18:00 a 20:30 V de 09:30 a 13:30;Benacazón
+300;FACULTAD DE BELLAS ARTES;LARAÑA, 3;37.392792,-5.993014;CentroPublico;;Sevilla
+301;Rectorado (Edificio Central);San Fernando, 4;37.380784,-5.991241;CentroPublico;;Sevilla
+302;FACULTAD DE FILOLOGÍA;PALOS DE LA FRONTERA, S/N;37.380216,-5.991064;CentroPublico;;Sevilla
+303;FACULTAD DE GEOGRAFÍA E HISTORIA;DOÑA MARÍA DE PADILLA, S/N;37.380968,-5.992375;CentroPublico;;Sevilla
+304;INSTITUTO DE ESTUDIOS SOBRE AMÉRICA LATINA;Doña María de Padilla, s/n.;37.381268,-5.992182;CentroPublico;;Sevilla
+305;CENTRO DE INICIATIVAS CULTURALES (CICUS);Madre de Dios, 1;37.38774,-5.989336;CentroPublico;;Sevilla
+306;CENTRO INTERNACIONAL;Avda. Ciudad Jardín 20/22;37.379316,-5.966555;CentroPublico;;Sevilla
+307;FACULTAD DE FILOSOFÍA;CAMILO JOSÉ CELA, S/N;37.380328,-5.976349;CentroPublico;;Sevilla
+308;FACULTAD DE PSICOLOGÍA;CAMILO JOSÉ CELA, S/N;37.379436,-5.975963;CentroPublico;;Sevilla
+309;FACULTAD DE ENFERMERÍA, FISIOTERAPIA Y PODOLOGÍA;AVENZOAR, 6;37.40664,-5.992275;CentroPublico;;Sevilla
+310;FACULTAD DE MEDICINA;AVDA. DOCTOR FEDRIANI, S/N;37.407036,-5.988179;CentroPublico;;Sevilla
+311;FACULTAD DE ODONTOLOGÍA;AVICENA, S/N;37.40524,-5.993313;CentroPublico;;Sevilla
+312;CENTRO DE ENFERMERÍA DE LA CRUZ ROJA;AVDA. DE LA CRUZ ROJA, 1;37.401016,-5.982693;CentroPublico;;Sevilla
+313;Escuela Politécnica Superior;VIRGEN DE ÁFRICA, 7;37.376304,-6.002691;CentroPublico;;Sevilla
+314;ESCUELA TÉCNICA SUPERIOR DE ARQUITECTURA;AVDA. REINA MERCEDES, 2;37.362308,-5.98669;CentroPublico;;Sevilla
+315;ESCUELA TÉCNICA SUPERIOR DE INGENIERÍA DE EDIFICACIÓN;AVDA. REINA MERCEDES, 4 A;37.361948,-5.98666;CentroPublico;;Sevilla
+316;ESCUELA TÉCNICA SUPERIOR DE INGENIERÍA INFORMÁTICA;AVDA. REINA MERCEDES, S/N;37.358236,-5.987049;CentroPublico;;Sevilla
+317;FACULTAD DE BIOLOGÍA;PROFESOR GARCÍA GONZÁLEZ, S/N;37.360432,-5.986874;CentroPublico;;Sevilla
+318;FACULTAD DE FARMACIA;PROFESOR GARCÍA GONZÁLEZ, Nº 2;37.360968,-5.988288;CentroPublico;;Sevilla
+319;FACULTAD DE FÍSICA;AVDA. REINA MERCEDES, S/N;37.359512,-5.986359;CentroPublico;;Sevilla
+320;FACULTAD DE MATEMÁTICAS;TARFIA, S/N;37.359396,-5.987991;CentroPublico;;Sevilla
+321;FACULTAD DE QUÍMICA;PROFESOR GARCÍA GONZÁLEZ, S/N;37.360436,-5.988099;CentroPublico;;Sevilla
+322;INSTITUTO DE IDIOMAS;Avda. Reina Mercedes, 4;37.35888,-5.98658;CentroPublico;;Sevilla
+323;INSTITUTO UNIVERSITARIO DE ARQUITECTURA y CC. DE LA CONSTRUCCIÓN;Avda. Reina Mercedes 2;37.362316,-5.98669;CentroPublico;;Sevilla
+324;INST.UNIV. DE INVEST. DE MATEMÁTICAS DE LA U.S. A. DE CASTRO BRZEZICKI;Ed. Celestino Mutis 1ª pl. Avda. Reina Mercedes s/n;37.358892,-5.98698;CentroPublico;;Sevilla
+325;CENTRO DE INVESTIGACIÓN TECNOLÓGICA E INNOVACIÓN (C.I.T.I.U.S.);Avenida Reina Mercedes, 4B.;37.361304,-5.987162;CentroPublico;;Sevilla
+326;CITIUS - S.G.I. CELESTINO MUTIS;Avenida Reina Mercedes, 4B.;37.358884,-5.987044;CentroPublico;;Sevilla
+327;C.R.A.I. ANTONIO DE ULLOA;Avenida Reina Mercedes, s/n;37.359876,-5.986552;CentroPublico;;Sevilla
+328;Escuela Internacional de Postgrado;Pabellón de México, Paseo de las Delicias;37.369632,-5.987595;CentroPublico;;Sevilla
+329;ESCUELA TÉCNICA SUPERIOR DE INGENIERÍA AGRONÓMICA;CTRA. DE UTRERA, KM. 1;37.353028,-5.938671;CentroPublico;;Sevilla
+330;FACULTAD DE CIENCIAS DE LA EDUCACIÓN;PIROTECNIA, S/N;37.376504,-5.977148;CentroPublico;;Sevilla
+331;CENTRO UNIVERSITARIO EUSA;PLÁCIDO FERNÁNDEZ VIAGAS, 4;37.375652,-5.980278;CentroPublico;;Sevilla
+332;CENTRO DE FORMACIÓN PERMANENTE;Paseo de las Delicias, s/n;37.369948,-5.987802;CentroPublico;;Sevilla
+333;FACULTAD DE CIENCIAS DEL TRABAJO;ENRAMADILLA, 18;37.378228,-5.97849;CentroPublico;;Sevilla
+334;FACULTAD DE CIENCIAS ECONÓMICAS Y EMPRESARIALES;AVDA. RAMÓN Y CAJAL, 1;37.378076,-5.976736;CentroPublico;;Sevilla
+335;FACULTAD DE DERECHO;C/ Enramadilla, 18-20;37.378252,-5.97853;CentroPublico;;Sevilla
+336;FACULTAD DE TURISMO Y FINANZAS;AVDA. SAN FRANCISCO JAVIER, S/N;37.378924,-5.975897;CentroPublico;;Sevilla
+337;INSTITUTO DE CIENCIAS DE LA EDUCACIÓN;Avda. Ramón y Cajal, s/n;37.378088,-5.97675;CentroPublico;;Sevilla
+338;INSTITUTO ANDALUZ INTERUNIVERSITARIO DE CRIMINOLOGÍA;Enramadilla, 18-22;37.378228,-5.97848;CentroPublico;;Sevilla
+339;INSTITUTO GARCÍA OVIEDO;Enramadilla 18-20;37.376988,-5.978311;CentroPublico;;Sevilla
+340;ESCUELA TÉCNICA SUPERIOR DE INGENIERÍA;CAMINO DESCUBRIMIENTOS, S/N.- ISLA CARTUJA;37.411556,-6.000502;CentroPublico;;Sevilla
+341;FACULTAD DE COMUNICACIÓN;AMÉRICO VESPUCIO, S/N;37.410448,-6.006409;CentroPublico;;Sevilla
+342;CENTRO DE INVESTIGACIONES CIENTIFICAS ISLA CARTUJA (C.I.C.I.C.);Américo Vespucio, s/n. Isla de la Cartuja;37.411696,-6.006817;CentroPublico;;Sevilla
+343;CENTRO NACIONAL DE ACELERADORES;Tomás Alba Edison, 7;37.410036,-6.003223;CentroPublico;;Sevilla
+344;INSTITUTO DE MICROELECTRÓNICA DE SEVILLA;Américo Vespucio s/n;37.412228,-6.005913;CentroPublico;;Sevilla
+345;CENTRO UNIVERSITARIO DE OSUNA;CAMPO DE CIPRESES, 1 (EDIF. ANT. UNIVERSIDAD);37.237656,-5.099546;CentroPublico;;Osuna (Sevilla)
+346;CENTRO DE ENFERMERÍA SAN JUAN DE DIOS;AVDA. SAN JUAN DE DIOS, S/N;37.372764,-6.085193;CentroPublico;;Bormujos (Sevilla)
+347;CENTRO DE ESTUDIOS UNIVERSITARIOS CARDENAL SPÍNOLA;CAMPUS UNIVERSITARIO;37.369096,-6.087042;CentroPublico;;Bormujos (Sevilla)
+348;Ayuntamiento de Benacazón;Plaza de Blas Infante, n.º 1;37.35336,-6.198674;CentroPublico;lunes a viernes, de 7:30,h a 14:30h.;Benacazón
+349;Casa Palacio;Calle Real, n.º 26;37.353356,-6.197925;CentroPublico;lunes a viernes, de 7:30,h a 14:30h.;Benacazón
+350;Centro de Formación “Maestros de Benacazón”;Calle Vicente Aleixandre, n.º 1;37.356764,-6.201141;CentroPublico;lunes a viernes, de 9:00h a 14:30h. y de 17:00h a 20:00h.;Benacazón
+351;Ayuntamiento de Ecija;San Francisco, 11;37.541788,-5.079602;CentroPublico;lunes a viernes, de 8:00,h a 21:00h.;Ecija
+352;Casa de la Juventud;Av. Miguel de Cervantes, 21;37.539332,-5.078121;CentroPublico;lunes a viernes, de 8:00,h a 21:00h.;Ecija
+353;Centro de Servicios Sociales Comunitarios;Evaristo Espinosa, 8;37.540232,-5.081147;CentroPublico;lunes a viernes, de 8:00,h a 15:00h.;Ecija
+354;Mercado de Abastos;Compañía, 6;37.5416,-5.080466;CentroPublico;lunes a viernes, de 8:00,h a 15:00h.;Ecija
+355;Area de Empleo SEDESA;Camino del Físico, s/n.;37.53946,-5.088835;CentroPublico;lunes a viernes, de 8:00,h a 15:00h.;Ecija
+356;Museo Histórico Municipal;Plaza de la constitución, s/n.;37.539468,-5.079614;CentroPublico;horario completo en google map;Ecija
+357;Área de Hacienda y Coordinación;Conde,13;37.5408,-5.081048;CentroPublico;lunes a viernes, de 8:00,h a 15:00h.;Ecija
+358;Centro Municipal de Información a la Mujer;Portugal, 9;37.536644,-5.075279;CentroPublico;lunes a viernes, de 8:00,h a 15:00h.;Ecija
+359;Urbanismo;Mayor, 8;37.545056,-5.081498;CentroPublico;lunes a viernes, de 8:00,h a 15:00h.;Ecija
+360;Biblioteca Pública Municipal Tomás Beviá;Plaza de Santa María, 4;37.540504,-5.080109;CentroPublico;lunes a viernes, de 9:00 a 14:00 y de 16:00 a 21:00 h.;Ecija
+361;Teatro Municipal;Comedias, 10;37.542864,-5.077592;CentroPublico;lunes a viernes, de 8:00,h a 15:00h.;Ecija
+362;Polideportivo Municipal El Valle;Av. Jerónimo de Aguilar, 1;37.55054,-5.079228;CentroPublico;de L a V, de 8:00 a 20:00 / S. de 8:00 a 22:00 / D. de 8:00 15:00 h.;Ecija
+363;Pabellón Cubierto Mucinicipal La Alcarrachela;Feria, s/n.;37.533236,-5.076525;CentroPublico;lunes a viernes, de 13:00,h a 19:30h.;Ecija
+364;Parque Municipal San Pablo;Av. Dr. Fleming, 1;37.539272,-5.072951;CentroPublico;lunes a domingo de 08:00 a 23:00 h.;Ecija
+365;Parque Municipal Infantil;Av. Miguel de Cervantes, 30;37.537628,-5.077074;CentroPublico;lunes a domingo de 08:00 a 23:00 h.;Ecija
+366;Parque Municipal Luis Vélez de Guevara;Av. Micguel de Cervantes, ;37.537632,-5.076936;CentroPublico;lunes a domingo de 08:00 a 23:00 h.;Ecija
+367;Parque Municipal de la Caballería;Herrera, s/n.;37.545952,-5.084316;CentroPublico;lunes a domingo de 08:00 a 23:00 h.;Ecija
+368;Bar El Metro;Plaza de Jagüey Grande, 16;37.353252,-6.04721;Establecimiento;;Mairena del Aljarafe
+369;Peluquería KHARMA;Plaza de las Naciones, local 1;37.34996,-6.05318;Establecimiento;Sábados por la tarde y domingos cerrado;Mairena del Aljarafe
+370;Ayuntamiento de Alcalá de Guadaíra;Plaza del Duque, 1;37.333956,-5.849171;CentroPublico;lunes a viernes, de 8 a 15 h.;Alcalá de Guadaíra
+371;Centro Social Polivalente Distrito Norte;Ramón J. Sender, s/n.;37.348168,-5.842282;CentroPublico;lunes a viernes, de 8 a 22 h.;Alcalá de Guadaíra
+372;Centro Cívico Silos-Zacatín;Silos, 92;37.34428,-5.846484;CentroPublico;lunes a viernes, de 8 a 22 h.;Alcalá de Guadaíra
+373;Centro Cívico Medina de Haro;Avda. Santa Lucía, s/n.;37.333016,-5.834694;CentroPublico;lunes a viernes, de 8 a 22 h.;Alcalá de Guadaíra
+374;Casa de la Cultura;General Prim, 2;37.340832,-5.83695;CentroPublico;lunes a viernes, de 8 a 22 h.;Alcalá de Guadaíra
+375;Museo de Alcalá de Guadaíra;Juez Pérez Díaz, 4;37.340256,-5.839323;CentroPublico;lunes a domingo 10 a 14 h. y de 19 a 21 h. ;Alcalá de Guadaíra
+376;Centro Luís Velázquez Peña;Pablo Picasso, s/n.;37.349332,-5.84583;CentroPublico;lunes a viernes, de 8 a 22 h.;Alcalá de Guadaíra
+377;Biblioteca Pública;Plaza el Perejil, s/n.;37.333356,-5.852678;CentroPublico;lunes a domingo 08:30 a 24:00 h.;Alcalá de Guadaíra
+378;Complejo Deportivo Distrito Sur;Sup, 24;37.32244,-5.862037;CentroPublico;lunes a viernes, de 9 a 22 h. Sábado de 9 a 15 h.;Alcalá de Guadaíra
+379;Complejo Deportivo Pablo VI;José García Alcalareño, s/n.;37.342456,-5.833439;CentroPublico;lunes a viernes, de 8 a 15 h.;Alcalá de Guadaíra
+380;Complejo Deportivo San Francisco de Paula;Alcalá del Ebro, s/n.;37.329308,-5.826671;CentroPublico;lunes a viernes, de 8 a 15 h.;Alcalá de Guadaíra
+381;Nuevo Estadio Ciudad de Alcalá;Avda. Santa Lucía, 94;37.331068,-5.831453;CentroPublico;lunes a viernes, de 16 a 21 h. ;Alcalá de Guadaíra
+382;Edificio de la Harinera;Avda. Tren de los Panaderos, s/n.;37.331552,-5.840085;CentroPublico;lunes a viernes, de 9 a 14 h. y de 17 a 19 h. Sábados y Festivos de 11 a 14 h.;Alcalá de Guadaíra
+383;Centro de Servicios Sociales;Telmo Maqueda, s/n.;37.340424,-5.844198;CentroPublico;lunes a viernes, de 8 a 15 h.;Alcalá de Guadaíra
+384;LA SRA. POP;Amor de Dios, 55;37.397008,-5.993425;Establecimiento;De lunes a domingo de 17:00 a 02:00 martes cerrado;Sevilla
+385;Bar Asador el Balcón del Guadiamar;Ctra. Aznalcázar - Pilas, Km. 0,5;37.29738,-6.253518;Establecimiento;De 12:30 a 17:00 y de 21:00 a 24:00;Aznalcázar 
+386;Ayuntamiento de Villanueva del Ariscal;Plaza de España, 1;37.3957,-6.14156;CentroPublico;lunes a viernes, de 8 a 15 h.\t;Villanueva del Ariscal
+387;Centro Cívico. Bar de los Mayores;Diamantino Gacrcía, s/n.;37.398472,-6.139705;CentroPublico;lunes a domingo de 07:00 a 0:00\t;Villanueva del Ariscal
+388;Centro de Servicios Sociales;Avda. de Andalucía, s/n.;37.3989,-6.14759;CentroPublico;lunes a viernes, de 8 a 15 h.\t;Villanueva del Ariscal
+389;Casa de la Cultura y Biblioteca Municipal;Rey Juan Carlos I, n. 40;37.397432,-6.142563;CentroPublico;lunes a viernes, de 9 a 14 y de 17 a 20\t;Villanueva del Ariscal
+390;Escuela Municipal de Música y Danza;Avda. de los Trabajadores, s/n.;37.398424,-6.138302;CentroPublico;lunes a viernes, de 16 a 21;Villanueva del Ariscal
+391;Polideportivo Municipal Padre Miguel Caballero;Avda. de los Niños, s/n.;37.396364,-6.136251;CentroPublico;lunes a viernes, de 16 a 21;Villanueva del Ariscal
+392;Piscina Municipal;Avda. de los Niños, s/n.;37.396364,-6.136251;CentroPublico;Julio y Agosto de 12 a 20;Villanueva del Ariscal
+393;Centro de Formación y Punto de Empleo;Mariana de Pineda, s/n.;37.399368,-6.145716;CentroPublico;lunes a viernes, de 8 a 15 h.;Villanueva del Ariscal
+394;Guadalinfo y Punto de Igualdad Municipal;Avda. de Andalucía, s/n.;37.39868,-6.148075;CentroPublico;lunes a viernes, de 8 a 15 h.;Villanueva del Ariscal
+395;Canguro Aventura;c/. Comercio, 17 (Polig. PISA);37.353968,-6.05938;Establecimiento;de 18:00 a 22:00;Mairena del Aljarafe
+396;Canguro Aventura;c/. Nivel, 13 (Polig. Store);37.410252,-5.961066;Establecimiento;de 18:00 a 22:00;Sevilla
+397;La Esquinita de Javier;Santa Ana, 2;37.283308,-5.921613;Establecimiento;Cierra los domingos;Dos Hermanas
+398;Bar El Carrillo;Alcalde Tierno Galván, 26;37.284984,-5.921184;Establecimiento;Cierra los martes;Dos Hermanas
+399;Centro Social y Deportivo Vistazul;Nelson Mandela, s/n.;37.28512,-5.908409;Establecimiento;;Dos Hermanas
+400;Casa Rafa;Álava, 27;37.277388,-5.922527;Establecimiento;Cierra los martes;Dos Hermanas
+401;Hostal El Emigrante;Santo Domingo, 11;37.286216,-5.929199;Establecimiento;;Dos Hermanas
+402;Supermercados Dos, S.L.;Av. de la Motilla, C.C.la Motilla, Loc 15-22;37.287144,-5.943418;Establecimiento;Lunes a sábado de 09:00 a 20:30;Dos Hermanas
+403;K`aproveche;Avda. de España, 110 - local, 3;37.289896,-5.917436;Establecimiento;Cierra los miércoles;Dos Hermanas
+404;Club Deportivo Taekwondo PAKO`S GYM;Esperanza, 29;37.28886,-5.922451;Establecimiento;De L a V de 8 a 23 sabados de 9 a 14 Domingos cerrado;Dos Hermanas
+405;Mario Tapas;Avda. Boulevar Siglo XXI, 30;37.163812,-5.937172;Establecimiento;De 07:00 a 24:00;Los Palacios y Villafranca
+406;Manolo Mayo;Avda. de Sevilla, 29;37.162032,-5.924254;Establecimiento;;Los Palacios y Villafranca
+407;El Trueque.Bar;Real de Villafranca, 10;37.160172,-5.929083;Establecimiento;De 08:00 a 24:00;Los Palacios y Villafranca
+408;Manolo Ruiz, Sport, Sastrería, Novios;Real de Villafranca, 8;37.160068,-5.928927;Establecimiento;de 10:00 a 13:45 y de 17:30 a 21:00 sábado tarde y domingo cerrado;Los Palacios y Villafranca
+409;Zentral Café;Plaza de España, 22;37.159536,-5.927279;Establecimiento;de 07:30 a 24:00;Los Palacios y Villafranca
+410;Cafetería Líbano;Avda. de Utrera, 39;37.15926,-5.922803;Establecimiento;de 08:00 a 05:00;Los Palacios y Villafranca
+411;Centro Municipal Acuático y Deportivo;Arona, s/n.  (Montequinto);37.331592,-5.927582;CentroPublico;de 09:00 a 22:00 Sáb. de 11:00 a 14:00 Dom. Cerrado;Dos Hermanas
+412;Piscina Cubierta Municipal;Garcilaso de la Vega, s/n.;37.294052,-5.926425;CentroPublico;de 10 a 14 y de 16 a 22 Sáb. Y Dom. De 12 a 20;Dos Hermanas
+413;Palacio de los Deportes;Serrana, s/n.;37.27052,-5.912947;CentroPublico;de 09:00 a 15:00 Sáb y Dom. Cerrado;Dos Hermanas
+414;Pabellón de Montequinto;Arona, 2  (Montequinto);37.331856,-5.92736;CentroPublico;de 09:00 a 22:00 Sáb. de 11:00 a 14:00 Dom. Cerrado;Dos Hermanas
+415;Pabellón de Entretorres;Teodosio, s/n. (Montequinto);37.344208,-5.93584;CentroPublico;De lunes a viernes de 9:00 a 14:00 horas;Dos Hermanas
+416;Complejo Deportivo e Instalaciones Pepe Flores;Casilla de la Dehesa, s/n.;37.32348,-5.924169;CentroPublico;de 9 a 14 y de 16 a 23 h. Sab. Y Dom. Según actividades;Dos Hermanas
+417;Complejo Polideportivo Municipal;Murano, 31 (Montequinto);37.331552,-5.929055;CentroPublico;de 8 a 14 y 16 a 23 h. Dom. De 8 a 14:30;Dos Hermanas
+418;Pabellón Cubierto de los Montecillos;Meñaca, 31;37.270904,-5.918381;CentroPublico;"de&nbsp;8 a 14:30 y de 16 a 23:30 h. Dom. de 8 a 14:30";Dos Hermanas
+419;Complejo Deportivo Ramón y Cajal;Tirso de Molina, s,n.;37.293708,-5.926467;CentroPublico;de 8 a 14:30 y de 15 a 23  Dom de 8 a 14:30.;Dos Hermanas
+420;Estadio Miguel Román;Avda. Ramón y Cajal, 2;37.291768,-5.924483;CentroPublico;De 19:00 a 21:00 horas;Dos Hermanas
+421;Estadio e Instalaciones Manuel Utrilla;Meñaca, 4;37.271232,-5.916868;CentroPublico;De 08:30 a 14y de 16 a 22 - Sáb. Y Dom.  09:00 a 14:00;Dos Hermanas
+422;Complejo Deportivo Municipal Fuente del Rey;Fernando III, s/n;37.311672,-5.977224;CentroPublico;De 12:00 a 20:00;Dos Hermanas
+423;Centro Municipal de Expresión Corporal;Avda. Ramón y Cajal, s/n.;37.293716,-5.926463;CentroPublico;De lunes a viernes de 10:00 a 13:00 y de 16:00 a 21:00 horas.;Dos Hermanas
+424;Ayuntamiento;Plaza de la Constitución, 1;37.283812,-5.922232;CentroPublico;De lunes a viernes de 09:00 a 14:00;Dos Hermanas
+425;Centro Cultural La Almona;La Mina, 3;37.282796,-5.92148;CentroPublico;De lunes a viernes de 09:00 a 14:00 y de 18:00 a 20:00;Dos Hermanas
+426;Oficina Municipal de Fuente del Rey;Almirante Bonifaz, 141;37.312516,-5.978289;CentroPublico;De lunes a viernes de 09:00 a 14:00;Dos Hermanas
+427;Ciudad del Conocimiento;Miguel Manaute, s/n.;37.308836,-5.941158;CentroPublico;De lunes a viernes de 08:00 a 15:00;Dos Hermanas
+428;Oficina Municipal de Montequinto;Avda. San José de Calasanz, 6;37.346708,-5.937163;CentroPublico;De lunes a viernes de 09:00 a 14:00;Dos Hermanas
+429;Oficina Municipal Zona Sur;Las Botijas, 11;37.275744,-5.917757;CentroPublico;De lunes a viernes de 09:00 a 14:00;Dos Hermanas
+430;Biblioteca Pedro Laín Entralgo;Plaza Huerta Palacios, s/n.;37.28512,-5.922514;CentroPublico;De lunes a viernes de 10:00 a 14:00 y de 15:00 a 20:30;Dos Hermanas
+431;Biblioteca Miguel Delibes;Venecia, 22 (Montequinto);37.337528,-5.93089;CentroPublico;De lunes a viernes de 10:00 a 14:00 y de 15:00 a 20:30;Dos Hermanas
+432;Laguna Fuente del Rey;Plaza del Parral, B;37.310032,-5.979641;CentroPublico;De 08:00 a 21:00;Dos Hermanas
+433;Mercado Municipal de Abastos;Plaza del Emigrante, s/n.;37.281556,-5.92102;CentroPublico;lunes a viernes de 8 a 14 y de 17:30 a 20 Sáb. De 8 a 14;Dos Hermanas
+434;Centro Municipal de Abastos-Centro Comercial Integrado de Montequinto;Avda. de los Pinos, s/n.;37.345208,-5.931611;CentroPublico;De lunes a sábado de 08:00 a 15:00;Dos Hermanas
+435;Centro de Estetica y Quiromasaje Carmen Ruiz;Estrasburgo, 9 - local,2;37.33252,-5.925294;Establecimiento;De lunes a viernes de 10:00 a 13:30 y de 17:00 a 20:00;Dos Hermanas
+436;Peluquería Tarma;Avda. augusta, 3 - local, 3B-C;37.344424,-5.936493;Establecimiento;;Dos Hermanas
+437;Bar La Paleta de Sabores;Avda. de los Pinos, 12;37.338648,-5.932384;Establecimiento;lunes a viernes de 7 a 22 Sáb de 8:30 a 15 Dom 8:30 a 12:30;Dos Hermanas
+438;Lámparas Montequinto;Numa, 19;37.342024,-5.938632;Establecimiento;De 9:30–13:45 y de 17:00–20:30 sábados de 10:00 a 14:00;Dos Hermanas
+439;Academias Teleteacher;Chapí, 19;37.281336,-5.930515;Establecimiento;;Dos Hermanas
+440;Academias Teleteacher;Avda. Cristobal Colón, 38 - local G;37.281932,-5.930035;Establecimiento;;Dos Hermanas
+441;Cafeteria OHLALA;Juan XXIII, s/n;37.28432,-5.908913;Establecimiento;8:30 a 13:00 y 16:30 a 21:30;Dos Hermanas
+442;Gastro Bar BOCA BACO;Pablo VI, 7 - local 1;37.283716,-5.909183;Establecimiento;de 6:30 a 21:00 horas;Dos Hermanas
+443;Berlin Bar;Juan XXIII, 4 - local 1;37.284132,-5.909024;Establecimiento;de 8:00 a 24:00 horas;Dos Hermanas
+444;Gran Taberna Los Padres;Amsterdam, 10 - local 2 y 4;37.331724,-5.925291;Establecimiento;de 7:00 a 24:00 sabados y domingos de 8:00 a 24:00;Dos Hermanas
+445;Casa Pedro Abrasador;Maestro Tejera, 1;37.290292,-5.901494;Establecimiento;sábados y dómingo de 12 a 17 y de 20 a 24;Dos Hermanas
+446;Café Verona (I);Maestro Castillo, 2;37.290188,-5.901713;Establecimiento;de 08:00 a 24:00 horas;Dos Hermanas
+447;Café Verona (II);Avda. España. Glorieta Asturias, 2;37.2918,-5.927825;Establecimiento;de 08:00 a 24:00 horas;Dos Hermanas
+448;Tiempo Barista & Barman;Avda. de España, 110;37.289148,-5.916297;Establecimiento;de 08:00 a 24:00 horas;Dos Hermanas
+449;Sache Café;Avda. de España, 50;37.292704,-5.924184;Establecimiento;de 08:00 a 24:00 horas;Dos Hermanas
+450;Campus 34;Avda. de las Universidades, s/n.;37.308284,-5.941479;Establecimiento;L a V de 08:00 a 01:00 y Sábados de 09:30 a 01:00;Dos Hermanas
+451;VERTI`C;Plaza de la Constitución, 3;37.283424,-5.922529;Establecimiento;L a J de 17:00 a 0:00 y de V a D de 11:00 a 0:00;Dos Hermanas
+452;Casa Palacio de los Briones, sede UPO en Carmona;Ramón y Cajal, 15;37.472904,-5.635909;CentroPublico;De lunes a viernes de 08:00 a 15:00 h.;Carmona
+453;Residencia Universitaria Flora Tristán;Residencia de Estudiantes s/n;37.361652,-5.961409;CentroPublico;L y M de 8 a 18 / X, J y V de 8 a 22 / S y D de 8 a 16;Sevilla
+454;Ayuntamiento;Pablo Iglesias, 2;37.418348,-6.110093;CentroPublico;Lunes a Viernes, de 8:00 a 15:00 h.;Salteras
+455;Centro de Servicios Sociales;Blanco white, 13;37.416168,-6.108107;CentroPublico;Lunes a Viernes, de 8:00 a 15:00 h.;Salteras
+456;Piscina Cubierta;Avenida del Junquillo, s/n;37.414392,-6.112569;CentroPublico;Lunes a Viernes, de 8:00 a 14:00 h.;Salteras
+457;Biblioteca Pública Municipal;Plaza Nuestro Padre Jesús Nazareno, s/n;37.419404,-6.108435;CentroPublico;L a V, de 9 a 14 h. y de 16 a 21 h. Sábado de 9 a 14 h.;Salteras
+458;Centro de Salud;Gerardo Pérez Pérez, s/n;37.415976,-6.110461;CentroPublico;Luna Viernes de 8:00 a 15:00 h.;Salteras
+459;Pol. Municipal Jesús María Rodríguez Amuedo;Avenida del Junquillo, s/n.;37.414448,-6.112726;CentroPublico;L a V, de 16:00 a 23:00. Sáb. y Dom., de 10:00 a 22:00 h.;Salteras
+460;Centro de Mayores;Plaza Ntro. Padre Jesús Nazareno, s/n;37.419108,-6.108555;CentroPublico;;Salteras
+461;Espacio Joven/Guadalinfo;Plaza Ntro. Padre Jesús Nazareno, s/n;37.418956,-6.108554;CentroPublico;Lunes a Viernes de 8:00 a 15:00 h. y de 16:00 a 20:00 h.;Salteras
+462;Edificio Ayuntamiento;Plaza de Andalucía, 1;37.32278,-6.05762;CentroPublico;8:00 a 15:00 h. Lunes a Viernes;Palomares del Río
+463;Centro de Servicios Sociales Comunitarios;Mairena, s/n;37.324564,-6.059088;CentroPublico;;Palomares del Río
+464;Centro Polideportivo Municipal;Isla, s/n;37.312376,-6.069767;CentroPublico;9 a 13 y 16 a 22 h. Lunes a Sábado\t;Palomares del Río
+465;Centro Polideportivo de La Vaguada;Pablo Iglesias, s/n;37.322164,-6.06684;CentroPublico;11 a 14 y 16 a 21 h. Lunes a Viernes;Palomares del Río
+466;Pabellón Cubierto Municipal;Amapolas, s/n;37.312184,-6.066143;CentroPublico;9 a 13 y 16 a 22 h. Lunes a Viernes;Palomares del Río
+467;Centro de Información Juvenil Guadalinfo;República Árabe Saharaui Democrática, Local,  11-13;37.32168,-6.05864;CentroPublico;8:00 a 15:00 h. Lunes a Viernes;Palomares del Río
+468;Juzgado de Paz;Iglesia, 36;37.322244,-6.058661;CentroPublico;9 a 14 h. Lunes a Viernes;Palomares del Río
+469;Biblioteca Municipal – Edificio de Talleres Municipales;Edificio de Talleres Municipales\tLoma Verdejana, s/n;37.319804,-6.056355;CentroPublico;9 a 14 y 16 a 20 h. Lunes a Viernes;Palomares del Río
+470;Hacienda Ulloa\tIglesia, s/n;Iglesia, s/n;37.322484,-6.057561;CentroPublico;8:00 a 15:00 h. Lunes a Viernes;Palomares del Río
+471;Farmacia Fernández - Bolaños, C.B.;Ctra. Palomares - Coria del Río, 11;37.314612,-6.06028;Establecimiento;;Palomares del Río
+472;Club Deportivo Taekwondo ILYO;Cruz del Cura, s/n.;37.310648,-6.067934;Establecimiento;;Palomares del Río
+473;Salón Mónaco (Cervecería);San Isidro Labrador, s/n.;37.34474,-6.045486;Establecimiento;lunes a domingo de 07:30 a 23:00 horas;Mairena del Aljarafe
+474;Hospital Universitario Virgen Macarena;Av. Dr. Fedriani, 3;37.406756,-5.986662;Adaptado;Planta baja del hospital (zona admisión dcha.);Sevilla
+475;Hospiatal San Juan de Dios del Aljarafe;Av. San Juan de Dios, s/n.;37.373456,-6.083991;Adaptado;Planta sótano consultas externas de cirugía;Bormujos
+476;Hospital Universitario Ntra. Sra. de Valme;Ctra. de Cádiz Km. 548,9;37.318752,-5.971333;Adaptado;Planta baja consultas externas de ostomías;Sevilla
+477;Universidad Pablo de Olavide;Ctra. de Utrera, 1;37.355224,-5.937414;Adaptado;Pabellón n.26 Gimnasio;Sevilla
+478;Ayuntamiento;Avda. Primero de Mayo, 104;37.463436,-6.010992;CentroPublico;Lunes a viernes de 09:00 a 14:00 h.;La Algaba
+479;Servicos Sociales Comunitarios;Eusebio Torres Carranza, s/n.;37.460932,-6.009124;CentroPublico;Lunes a viernes de 09:00 a 14:00 h.;La Algaba
+480;Polideportivo Municipal;Avda. Doctor Fleming, s/n.;37.458816,-6.014523;CentroPublico;Lunes a viernes de 09:00 a 14:00 h. y de 16:00 a 22:00 h.;La Algaba
+481;Pabellón Cubierto;Buganvilla, s/n.;37.457976,-6.017559;CentroPublico;Lunes a viernes de 16 a 20 y sábados de 9 a 14;La Algaba
+482;Tenencia de Alcaldía de El Aral;Virgen del Valle, s/n.;37.47268,-6.005305;CentroPublico;Lunes a viernes de 09:00 a 14:00 h.;La Algaba
+483;Centro de Formación Las 17 Rosas;Guadiana, 15;37.461648,-6.008097;CentroPublico;Lunes a viernes de 09:00 a 14:00 h.;La Algaba
+484;Centro Cultural Pintor Fausto Velazquez;Cervantes, 24;37.462456,-6.013203;CentroPublico;Lunes a viernes de 10:00 a 14:00 h. y de 17:00 a 20:00;La Algaba
+485;Centro de Adultos;Bda. Alcalde Pedro Clavijo, s/n.;37.460864,-6.009414;CentroPublico;Lunes a viernes de 9 a 15 y de lunes a jueves de 16 a 20;La Algaba
+486;Polideportivo Municipal Mascareta;La Solana, s/n.;37.371216,-6.044053;CentroPublico;De lunes a sábado de 09:00 a 14:30;Tomares
+487;Polideportivo Camino Viejo;Altozano, 155;37.377308,-6.033574;CentroPublico;Lunes a jueves de 8 a 23 y viernes a domingos de 8 a 22;Tomares
+488;ElCuarto Inmobiliaria Oficina Las Golondrinas;Avda. Sanchez Pizjuán, 28;37.4106,-5.986294;Establecimiento;"De 9 a 14 y de 16:30 a 20:30; sábados de 10 a 14";Sevilla
+489;ElCuarto Inmobiliaria Oficina Dr. Fedriani;Avda. Doctor Fedriani, 23;37.409228,-5.98497;Establecimiento;"De 9 a 14 y de 17 a 21; sábados de 10 a 14";Sevilla
+490;ElCuarto Inmobiliaria Oficina Macarena Norte;Avda. Pino montano, 122;37.40878,-5.972764;Establecimiento;"De 9 a 14 y de 16:30 a 20:30; sábados de 10 a 14";Sevilla
+491;ElCuarto Inmobiliaria Oficina La Salle;Avda. San Juan de la Salle, 49;37.40704,-5.972703;Establecimiento;"De 9 a 14 y de 17 a 21; sábados de 10 a 14";Sevilla
+492;ElCuarto Inmobiliaria Oficina Nervión;Avda. Ramón y Cajal, 9 -  local, 3;37.37644,-5.971992;Establecimiento;"De 9 a 14 y de 16:30 a 20:30; sábados de 10 a 14";Sevilla
+493;ElCuarto Inmobiliaria Oficina S. Pablo - El Greco;Avda. El Greco, 6;37.392228,-5.970031;Establecimiento;"De 9 a 14 y de 16:30 a 20:30; sábados de 10 a 14";Sevilla
+494;ElCuarto Inmobiliaria Oficina Rochelambert;Puerto del Escudo, 4 - local;37.375452,-5.954153;Establecimiento;"De 9 a 14 y de 17 a 21; sábados de 10 a 14";Sevilla
+495;Mercadona;Plaza De Armas, s/n.;37.392493,-6.003276;Establecimiento;De lunes a sábado de 9:00 - 21:30;Sevilla
+496;Mercadona;Juan Antonio Cavestany, 19;37.390584,-5.980274;Establecimiento;De lunes a sábado de 9:00 - 21:30;Sevilla
+497;Mercadona;Avda. de Hytasa, 33;37.371896,-5.962421;Establecimiento;De lunes a sábado de 9:00 - 21:30;Sevilla
+498;Mercadona;Ctra. Su Eminencia, s/n.;37.362028,-5.95726;Establecimiento;De lunes a sábado de 9:00 - 22:00;Sevilla
+499;Mercadona;Avda. la Revoltosa, S/N.;37.378318,-5.945693;Establecimiento;De lunes a sábado de 9:00 - 22:00;Sevilla
+500;Mercadona;Avda. de Kansas City, s/n.;37.404501,-5.957916;Establecimiento;De lunes a sábado de 9:00 - 22:00;Sevilla
+501;Mercadona;Ctra. de Carmona, 20;37.399393,-5.978018;Establecimiento;De lunes a sábado de 9:00 - 22:00;Sevilla
+502;Mercadona;Don Fadrique, 63;37.40653,-5.989621;Establecimiento;De lunes a sábado de 9:00 - 22:00;Sevilla
+503;Mercadona;Salado, s/n;37.379672,-5.999843;Establecimiento;De lunes a sábado de 9:00 - 21:30;Sevilla
+504;Mercadona;Avda. del Reino Unido, 3;37.349111,-5.977012;Establecimiento;De lunes a sábado de 9:00 - 21:30;Sevilla
+505;Mercadona;Avda. de Palmas Altas, 1 (C.C. Lagoh);37.344847,-5.989889;Establecimiento;De lunes a sábado de 9:00 - 22:00;Sevilla
+506;Mercadona;Alfonso Lasso de la Vega, s/n;37.364802,-5.979072;Establecimiento;De lunes a sábado de 9:00 - 21:30;Sevilla
+507;Mercadona;Avda. de Jerez, 13;37.327196,-5.964926;Establecimiento;De lunes a sábado de 9:00 - 22:00;Sevilla
+508;Mercadona;Avda. Alcalde Manuel del Valle, 54;37.415054,-5.973235;Establecimiento;De lunes a sábado de 9:00 - 22:00;Sevilla
+509;Mercadona;Astronomía, 9;37.42659,-5.976452;Establecimiento;De lunes a sábado de 9:00 - 22:00;Sevilla
+510;Mercadona;Avda. Parsi, 21;37.3745,-5.917966;Establecimiento;De lunes a sábado de 9:00 - 22:00;Sevilla
+511;Mercadona;Concepción Estevarena, s/n.;37.411643,-5.919648;Establecimiento;De lunes a sábado de 9:00 - 22:00;Sevilla
+512;Mercadona;Avda. de las Ciencias, s/n.;37.400539,-5.924943;Establecimiento;De lunes a sábado de 9:00 - 22:00;Sevilla
+513;Mercadona;Avda. Alcalde Luis Uruñuela, s/n.;37.406462,-5.933863;Establecimiento;De lunes a sábado de 9:00 - 22:00;Sevilla
+514;Mercadona;José Jesús García Díaz, s/n.;37.408815,-5.94166;Establecimiento;De lunes a sábado de 9:00 - 22:00;Sevilla
+515;Mercadona;Avda. Madre Paula Montal, s/n.;37.338331,-5.927117;Establecimiento;De lunes a sábado de 9:00 - 22:00;Montequinto
+516;Mercadona;Avda. Primero de Mayo, 48;37.289261,-6.052434;Establecimiento;De lunes a sábado de 9:00 - 22:00;Coria del Río
+517;Mercadona;Faeneras, s/n.;37.287359,-6.062355;Establecimiento;De lunes a sábado de 9:00 - 22:00;Coria del Río
+518;Mercadona;Avda. de Sevilla, 12;37.518251,-5.985535;Establecimiento;De lunes a sábado de 9:00 - 22:00;Alcalá del Río
+519;Mercadona;Avda. de Portugal, s/n.;37.487526,-5.935337;Establecimiento;De lunes a sábado de 9:00 - 22:00;San José de la Rinconada
+520;Mercadona;Sanidad Pública, s/n.;37.48219,-5.960036;Establecimiento;De lunes a sábado de 9:00 - 22:00;La Rinconada
+521;Mercadona;Avda. de Sevilla, 8;37.545687,-5.876252;Establecimiento;De lunes a sábado de 9:00 - 22:00;Brenes
+522;Mercadona;Avda. Ntra. Sra. de la Soledad, 62;37.611152,-5.82296;Establecimiento;De lunes a sábado de 9:00 - 22:00;Cantillana
+523;Mercadona;Avda. Dr. Villa, s/n.;37.463797,-5.647479;Establecimiento;De lunes a sábado de 9:00 - 22:00;Carmona
+524;Mercadona;Marcos Orbaneja, 33;37.659064,-5.527516;Establecimiento;De lunes a sábado de 9:00 - 21:30;Lora del Río
+525;Mercadona;Avda. Príncipe de Asturias, A-92, S-7;37.354251,-5.858039;Establecimiento;De lunes a sábado de 10:00 - 22:00;Alcalá de Guadaira
+526;Mercadona;Santiago de Chile, 1;37.312617,-5.859905;Establecimiento;De lunes a sábado de 9:00 - 22:00;Alcalá de Guadaira
+527;Mercadona;Duquesa de Talavera, 56;37.338645,-5.851196;Establecimiento;De lunes a sábado de 9:00 - 22:00;Alcalá de Guadaira
+528;Mercadona;Plaza de los Calderones, 8;37.341882,-5.83321;Establecimiento;De lunes a sábado de 9:00 - 22:00;Alcalá de Guadaira
+529;Mercadona;Ctra. Llenera-Utrera, Avda. de Mairena del Alcor, s/n.;37.382236,-5.734578;Establecimiento;De lunes a sábado de 9:00 - 22:00;Mairena del Alcor
+530;Mercadona;Avda. Trabajo, s/n.;37.397392,-5.712893;Establecimiento;De lunes a sábado de 9:00 - 22:00;El Viso del Alcor
+531;Mercadona;Cantarerías, 11;37.120311,-5.459185;Establecimiento;De lunes a sábado de 9:00 - 21:30;Morón de la Fronera
+532;Mercadona;Avda. de Andalucia, 2;37.125862,-5.446762;Establecimiento;De lunes a sábado de 9:00 - 21:30;Morón de la Fronera
+533;Mercadona;Villamartín, s/n.;37.252467,-5.549958;Establecimiento;De lunes a sábado de 9:00 - 21:30;El Arahal
+534;Mercadona;Travesía San Ignacio, s/n.;37.32566,-5.412171;Establecimiento;De lunes a sábado de 9:00 - 21:30;Marchena
+535;Mercadona;Avda. de España, 57;37.292987,-5.923219;Establecimiento;De lunes a sábado de 9:00 - 22:00;Dos Hermanas
+536;Mercadona;Carlos I de España, 9;37.280925,-5.925907;Establecimiento;De lunes a sábado de 9:00 - 22:00;Dos Hermanas
+537;Mercadona;Ntra. Sra. del Carmen, 7;37.283398,-5.918976;Establecimiento;De lunes a sábado de 9:00 - 22:00;Dos Hermanas
+538;Mercadona;Avda. Universidades, s/n.;37.311844,-5.941148;Establecimiento;De lunes a sábado de 9:00 - 22:00;Dos Hermanas
+539;Mercadona;Avda. Adolfo Suárez, s/n;37.295232,-5.910128;Establecimiento;De lunes a sábado de 9:00 - 22:00;Dos Hermanas
+540;Mercadona;Plaza de la Trianilla, 17;37.188374,-5.78808;Establecimiento;De lunes a sábado de 9:00 - 21:30;Utrera
+541;Mercadona;Doña Marcela, 4;37.174689,-5.776959;Establecimiento;De lunes a sábado de 9:00 - 21:30;Utrera
+542;Mercadona;Los Molares, s/n.;37.163556,-5.93503;Establecimiento;De lunes a sábado de 9:00 - 22:00;Los Palacios y Villafranca
+543;Mercadona;Avda. Jesús Nazareno, 38;36.989206,-5.938746;Establecimiento;De lunes a sábado de 9:00 - 22:00;Las Cabezas de San Juan
+544;Mercadona;Avda. de El Cuervo, s/n.;36.91633,-6.076964;Establecimiento;De lunes a sábado de 9:00 - 22:00;Lebrija
+545;Mercadona;Cristóbal Colón, 3;37.388231,-6.201921;Establecimiento;De lunes a sábado de 9:00 - 22:00;Sanlúcar la Mayor
+546;Mercadona;Jardines De La Alhambra, Cam. de Coria, s/n.;37.381948,-6.116627;Establecimiento;De lunes a sábado de 9:00 - 22:00;Espartinas
+547;Mercadona;Plaza Isabel II, s/n.;37.303337,-6.30535;Establecimiento;De lunes a sábado de 9:00 - 22:00;Pilas
+548;Mercadona;Poeta Muñoz San Román, 1;37.396824,-6.034178;Establecimiento;De lunes a sábado de 9:00 - 21:30;Camas
+549;Mercadona;Parque Comercial Alavera, Carretera A 8058, Km 1;37.350836,-6.025128;Establecimiento;De lunes a sábado de 9:00 - 22:00;S. Juan de Aznalfarache
+550;Mercadona;Trafalgar, 79;37.357659,-6.033883;Establecimiento;De lunes a sábado de 9:00 - 21:30;S. Juan de Aznalfarache
+551;Mercadona;Avda. de los Descubrimientos, s/n. (C.C. Metromar);37.34976,-6.051687;Establecimiento;De lunes a sábado de 9:00 - 22:00;Mairena del Aljarafe
+552;Mercadona;Nueva, 101;37.346577,-6.061953;Establecimiento;De lunes a sábado de 9:00 - 21:30;Mairena del Aljarafe
+553;Mercadona;Ctra. Mairena-Palomares, 14;37.334976,-6.065214;Establecimiento;De lunes a sábado de 9:00 - 21:30;Mairena del Aljarafe
+554;Mercadona;Zurraque, 24;37.342793,-6.064774;Establecimiento;De lunes a sábado de 10:00 - 22:00;Mairena del Aljarafe
+555;Mercadona;Hernán Cortés, s/n.;37.376321,-6.062983;Establecimiento;De lunes a sábado de 9:00 - 21:30;Bormujos
+556;Mercadona;Avda. Mairena del Aljarafe, 66;37.366772,-6.072252;Establecimiento;De lunes a sábado de 9:00 - 21:30;Bormujos
+557;Mercadona;Avda. Canal Sur, s/n.;37.371727,-6.035723;Establecimiento;De lunes a sábado de 9:00 - 22:00;Tomares
+558;Mercadona;Calle de la Fuente, 12;37.373364,-6.044992;Establecimiento;De lunes a sábado de 9:00 - 21:30;Tomares
+559;Mercadona;C.C. AIRESUR;37.385504,-6.047224;Establecimiento;De lunes a sábado de 9:00 - 22:00;Castilleja de la Cuesta
+560;Mercadona;Avda. del Trabajo, s/n.;37.379459,-6.081522;Establecimiento;De lunes a sábado de 9:00 - 21:30;Gines
+561;Mercadona;Avda. Santiponce, s/n.;37.462087,-6.018627;Establecimiento;De lunes a sábado de 9:00 - 22:00;La Algaba
+562;Café Copas Teresa;Mesina, local 1;37.339925,-5.934629;Establecimiento;"De L a S de 07:00 a 13:00 h.; V y S de 21:00 a 01:30 h.";Montequinto
+563;Cervecería El Grifo;Sicilia, 2;37.340206,-5.929724;Establecimiento;de 8:00–16:00 y de 20:00–24:00;Montequinto
+564;Cervecería El Grifo;Avda. de España, 76;37.292203,-5.921454;Establecimiento;de 12:00–16:00 y de 12:00–24:00;Dos Hermanas
+565;Ayuntamiento;Plaza de España, 1;37.427061,-6.165972;CentroPublico;Lunes a Viernes  de 08:00 a 15:00;Albaida del Aljarafe
+566;Edificio Juzgado de Paz/ Policía/ Urbanismo;Avda. De la Constitución, 1;37.427138,-6.165812;CentroPublico;Lunes a Viernes  de 08:00 a 15:00;Albaida del Aljarafe
+567;Edificio Asuntos Sociales;C/ Libertad, s/n;37.424238,-6.164945;CentroPublico;Lunes a Viernes  de 08:00 a 15:00;Albaida del Aljarafe
+568;Polideportivo Municipal;Avda. De la Juventud, s/n;37.428987,-6.164081;CentroPublico;Lunes a Viernes 16:30-21:30 Sábados 09:00-13:00;Albaida del Aljarafe
+569;Gimnasio Municipal;C/ Ronda de Andalucía, s/n;37.425104,-6.160971;CentroPublico;Lunes a Viernes 09:30 a 12:30 y 17:00 a 21:00;Albaida del Aljarafe
+570;Escuela de Música;C/ Libertad, s/n;37.424317,-6.16455;CentroPublico;Lunes a Viernes Abierto por las tardes, horario variable;Albaida del Aljarafe
+571;Biblioteca Municipal;Plaza Santa Ángela de la Cruz;37.424653,-6.163456;CentroPublico;Lunes a Viernes 16:00 a 20:00 Julio y agosto 09:00 a 13:00;Albaida del Aljarafe
+572;Casa de la Juventud;C/ Ntra. Sra. de la Asunción, s/n;37.4233,-6.164785;CentroPublico;Lunes a Jueves 16:30-20:30  Julio y Agosto: 09:00-14:00;Albaida del Aljarafe
+573;ALICIA IÑIGUEZ BONILLA;ASTRONOMIA, 28 - local 62 (P.E. Nueva Torneo);37.427192,-5.976626;Establecimiento;Lun. de 9 a 14 y 17 a 20, Mie. 15 a 21 y Vie. de 8 a 14 ;Sevilla
+574;Gabinete Ángeles García;Baños, 7;37.395098,-5.997845;Establecimiento;De L a V 10:00 a 14:00 y 17:00 a 20:30 y Sáb. 10:00 a 14:00;Sevilla
+575;AFIBROMA Málaga;Juan Francés Boscán, 20 (Colonia Santa Inés);36.726932,-4.467792;Establecimiento;De lunes a viernes de 9:30 a 12:30 y de 17:00 a 21:30;Málaga
+576;Albergue Inturjoven Sevilla;Isaac Peral, 2;37.364612,-5.986265;Adaptado;Todo el día;Sevilla
+577;Restaurante La Farola Fuengirola, S.L.;Cuesta, 15;36.536648,-4.623838;Establecimiento;L a J de 19 a 22:30 / V y S de 13 a 15:30 y de 19 a 23 ;Fuengirola
+578;Club Taeguk Maestro Francis;Chanquete, Edificio La Mezquita, local;36.550768,-4.614959;Establecimiento;Lunes a viernes de 17:00 a 22:00;Fuengirola
+579;Ayuntamiento;Blas Infante, 4;36.734103,-4.917013;CentroPublico;Lunes a viernes de 08:00 a 15:00;Yunquera
+580;Casa de la Cultura;Pinsapo, 8;36.734846,-4.91796;CentroPublico;Lunes a viernes de 08:00 a 15:00;Yunquera
+581;Guadalinfo;El Pozo, 17;36.734395,-4.917818;CentroPublico;Lunes a viernes de 09:00 a 15:00;Yunquera
+582;Inma Q Pelu;Calvario, 50;36.734056,-4.920405;Establecimiento;Lunes a viernes de 10 a 14 y de 17 a 20 Sábados de 10 a 14;Yunquera
+583;Bar Quini;Camino del Sao, 4;36.73597,-4.917809;Establecimiento;De 07:30 a 20:00 horas cierra los martes;Yunquera
+584;Bar Casa Pedro;Camino del Sao, 1;36.73613,-4.918182;Establecimiento;De 10:30 a 24:00 horas cierra los miércoles;Yunquera
+585;Aeropuerto de Sevilla SVQ;Carretera N-IV Madrid-Cádiz, km 532;37.423724,-5.899978;Adaptado;Dos aseos situados en la zona de embarque: (1)  frente a las puertas de embarque A5 y A6. (2)  puerta C23.;Sevilla
+586;Centro Cultural María Moliner;Vista Alegre, 30;37.38856,-6.336885;CentroPublico;Según programación cultural;Castilleja del Campo
+587;Casa Consistorial;Antonio Machado, 1;37.385881,-6.33445;CentroPublico;Lunes a viernes de 08:00 a 14:00 horas;Castilleja del Campo
+588;Centro de Formación;Alegría, 2;37.388308,-6.33688;CentroPublico;Según programa de actividades;Castilleja del Campo
+589;Casa de la Cultura/Biblioteca Municipal/Centro Guadalinfo;Plaza María Gamero Cívico, 10;37.38561,-6.3345;CentroPublico;De 11:00 a 14:30 y de 16:00 a 18:00;Castilleja del Campo
+590;Consultorio Médico;Avda. de Andalucía, 22;37.388193,-6.336676;CentroPublico;Lunes a viernes de 08:00 a 15:00 horas;Castilleja del Campo
+591;Piscina Municipal;Cuatro de Diciembre, s/n.;37.386625,-6.33687;CentroPublico;En verano de 13:00 a 20:00 horas;Castilleja del Campo
+592;Bar La Gasolinera;Avda. de Andalucía, 37;37.387693,-6.337417;Establecimiento;Lunes a domingo de 06:00 a 23:00;Castilleja del Campo
+593;Ayuntamiento de los Palacios Villafranca;Plaza de Andalucía, 6;37.158385,-5.924527;CentroPublico;De lunes a viernes de 08:00 a 15:00;Los Palacios y Villafranca
+594;Sala de Estudios Obispo Ramos de Lora;Plaza de Andalucía, 2;37.157818,-5.924646;CentroPublico;De lunes a viernes de 08:00 a 22:00;Los Palacios y Villafranca
+595;Casa de la Cultura;Real de Villafranca, 24;37.160735,-5.929041;CentroPublico;De lunes a viernes de 08:00 a 15:00;Los Palacios y Villafranca
+596;Casa de la Juventud;Don Francisco García García, 1;37.157601,-5.927854;CentroPublico;De lunes a viernes de 08:00 a 15:00;Los Palacios y Villafranca
+597;Círculo Joven;Joaquín Romero Murube, 21;37.160218,-5.926867;CentroPublico;De lunes a viernes de 08:00 a 15:00;Los Palacios y Villafranca
+598;CAIT/CTA;Juan José Barquero, 21;37.159287,-5.935538;CentroPublico;De lunes a viernes de 09:00 a 17:00;Los Palacios y Villafranca
+599;Centro Ocupacional y Salud Mental;Juan José Barquero, 130;37.159446,-5.937044;CentroPublico;De lunes a viernes de 08:00 a 15:00;Los Palacios y Villafranca
+600;Centro de Formación;Avda. Miguel Angel, s/n.;37.164358,-5.934713;CentroPublico;De lunes a viernes de 08:00 a 15:30;Los Palacios y Villafranca
+601;Policía Local;Avda. Miguel Angel, 30;37.160211,-5.93697;CentroPublico;;Los Palacios y Villafranca
+602;Centro de Bienestar Social;Maestro Enrique Rodríguez, 2;37.163958,-5.923495;CentroPublico;De lunes a viernes de 08:00 a 15:00;Los Palacios y Villafranca
+603;Biblioteca Generación del 27;Avda. de las Américas, s/n.;37.167988,-5.921279;CentroPublico;De lunes a domingo de 09:00 a 24:00;Los Palacios y Villafranca
+604;Pabellón Jesús Navas;Juan de la Cueva, 36;37.16513,-5.920411;CentroPublico;De lunes a sábados de 10:00 a 22:00;Los Palacios y Villafranca
+605;Pabellón José Moral;Av. del Horcajo, 7;37.155646,-5.923215;CentroPublico;De lunes a sábados de 10:00 a 22:00;Los Palacios y Villafranca
+606;Guardería La Nana;Av. Alfredo Nobel, s/n.;37.166973,-5.918019;CentroPublico;De lunes a viernes de 09:00 a 18:00;Los Palacios y Villafranca
+607;Guarderia La Luna;Portugal, s/n.;37.15641,-5.920118;CentroPublico;De lunes a viernes de 09:00 a 18:00;Los Palacios y Villafranca
+608;Centro Cívico Marchenilla;Garcilaso de la Vega, 28;37.162657,-5.91866;CentroPublico;De lunes a viernes de 08:00 a 15:00;Los Palacios y Villafranca
+609;Centro Público de Educación Personas Adultas;Laguna de Caro, s/n.;37.163488,-5.928695;CentroPublico;De lunes a viernes de 09:00 a 12:00 y de 16:00 a 21:00;Los Palacios y Villafranca
+610;Pista de Atletismo Rafael Curado;Juan José Baquero, s/n.;37.15917,-5.937685;CentroPublico;De lunes a viernes de 09:00 a 17:00;Los Palacios y Villafranca
+611;TODOESPECIAS;Pie Solo Ocho, 11;37.352879,-5.84146;Establecimiento;De lunes a viernes de 07:00 a 15:00;Alcalá de Guadaira
+612;Peluquería La Viña;La Viña, 5;36.735435,-4.91803;Establecimiento;De martes a sábado de 10 a 14 y de 17 a 21;Yunquera
+613;Clínica Searus;Luis de Morales, 3;37.164428,-5.923557;Establecimiento;De lunes a viernes de 09:00 a 14:00 y de 16:00 a 19:30;Los Palacios y Villafranca
+614;ASEPAVI;Santiago Heras, 3 - 2ª planta;37.160514,-5.928306;Establecimiento;De lunes a viernes de 10:00 a 14:00 ;Los Palacios y Villafranca
+615;La Tinaja Modas;San Isidro, 5;37.160396,-5.930285;Establecimiento;"L a V 10:30 a 13:30 y 18:00 a 21:00 ; Sáb 10:30 a 13:30";Los Palacios y Villafranca
+616;Estética S`Carmela;Husillo Real, 2-A;37.159722,-5.929299;Establecimiento;"L a V 09:30 a 13:30 y 16:00 a 20:30 ; Sáb 09:30 a 13:30";Los Palacios y Villafranca
+617;NO&DO Bar Copas;Husillo Real, 2-B;37.159693,-5.92936;Establecimiento;Lunes a domingo de 09:00 a 23:00;Los Palacios y Villafranca
+618;Clinica Dental Villafranca;Bartolomé Esteban Murillo, 5;37.15925,-5.923418;Establecimiento;De lunes a viernes de 09:30 a 13:30 y de 16:00 a 20:30;Los Palacios y Villafranca
+619;Cafetería Churrería San Francisco;Ramón y Cajal, 2;37.159842,-5.927771;Establecimiento;"L a V 07:00 a 22:00 ; Sab y Dom de 08:00 a 14:00";Los Palacios y Villafranca
+620;SM Hair Beauty;Federico Bustillo, 6 local - 1;37.162198,-5.925559;Establecimiento;"M a V 10:00 a 14:00 y 16:00 a 20:00 ; Sáb 09:00 a 14:00";Los Palacios y Villafranca
+621;CARREFOUR Camas;Poeta Muñoz San Román, s/n. ;37.392119,-6.031187;Adaptado;De lunes a sábados de 09:00 a 22:00. Ubicado en la zona de ocio y restauración. Lado derecho del edificio;Camas
+622;Ayuntamiento;Pl. de la Constitucion, 4;37.36862,-6.328942;CentroPublico;De lunes a viernes de 08:00 a 15:00;Carrión de los Céspedes
+623;Servicios Sociales y Oficina de Desarrollo y Urbanismo;Antonio Machado, 19 ;37.368797,-6.328367;CentroPublico;De lunes a viernes de 08:00 a 15:00;Carrión de los Céspedes
+624;Casa de la Cultura y sede de Protección Civil;Tres de Abril, 9 ;37.369114,-6.329531;CentroPublico;De lunes a viernes de 08:00 a 15:00;Carrión de los Céspedes
+625;Polideportivo Municipal;Av Reyes de España, s/n.;37.373277,-6.334647;CentroPublico;De 16:00 a 21:00;Carrión de los Céspedes
+626;Centro de Salud;Juan Carlos I ;37.367555,-6.330092;CentroPublico;De lunes a viernes de 08:00 a 15:00;Carrión de los Céspedes
+627;Hospital Universitario Virgen del Rocío;Av. Manuel Siurot, s/n.;37.361901,-5.980414;Adaptado;3ª planta (Cirugia General). Frente a la consulta de ostomías;Sevilla
+628;Venta El Minutero;Avda. de Utrera, 153;37.162046,-5.915724;Establecimiento;De 08:00 a 24:00;Los Palacios y Villafranca
+629;La Cervezería con Z;Avda. de Sevilla, 106;37.168316,-5.92531;Establecimiento;;Los Palacios y Villafranca
+630;Restaurante Hermanos Hervás La Pachanga;Avda. de Sevilla, 62;37.16517,-5.924638;Establecimiento;De 06:30 a 01:00 - Lunes cerrado;Los Palacios y Villafranca
+631;Bar Cadena;Avda. de Cádiz, 81;37.156614,-5.923915;Establecimiento;X a D de 12 a 17 y de 20 a 24 / L de 12 a 17 y M cerrado;Los Palacios y Villafranca
+632;Restaurante Abacería Hervás;Avda. de Utrera, 120;37.160598,-5.918465;Establecimiento;De 06:00 a 24:00 - Miércoles cerrado;Los Palacios y Villafranca
+633;Asociación de Discapacitados Aura;Pl. de la Almazara, 1;37.163475,-5.919826;Establecimiento;;Los Palacios y Villafranca
+634;Taberna Pico Reja;Juan Ramón Jiménez, 45;37.162465,-5.92464;Establecimiento;De 12:00 a 17:00 y de 20:30 a 24:00;Los Palacios y Villafranca
+635;Bar Pícaro Tapas;Juan de la Cueva, 40;37.164998,-5.919755;Establecimiento;X a D de 09 a 16 y de 20 a 24 / L cerrado y M de 09 a 12;Los Palacios y Villafranca
+636;Restaurante Moral No Ni Na;Avda. de Sevilla, 6;37.1602,-5.923658;Establecimiento;De 07:00 a 24:00 - Lunes cerrado;Los Palacios y Villafranca
+637;Bar Rocio Restaurante;Avda. de Sevilla, 88;37.166255,-5.924948;Establecimiento;De 08:00 a 24:00 - Miércoles cerrado;Los Palacios y Villafranca
+638;Bar Restaurante Entre Horas;Pl. de Andalucía, 7;37.158681,-5.92411;Establecimiento;De 08:00 a 24:00 - Martes cerrado;Los Palacios y Villafranca
+639;Bar Budha;Avda. de Sevilla, 47;37.164733,-5.925338;Establecimiento;De 07:00 a 03:00;Los Palacios y Villafranca
+640;Restaurante La abuela Crista;Avda. de Sevilla, 56;37.16482,-5.924477;Establecimiento;De 12:00 a 24:00 - Martes cerrado;Los Palacios y Villafranca
+641;Bar Restaurante Casa Francisco;Avda. de Sevilla, 114;37.169539,-5.925496;Establecimiento;De 06:00 a 21:30;Los Palacios y Villafranca
+642;Essencia Novias;Avda. de Sevilla, 102;37.167861,-5.92529;Establecimiento;L a V de 10 a 13 y de 18 a 20 - S. de 10 a 13 - D. cerrado;Los Palacios y Villafranca
+643;Taberna La Liebre;Tomás Iriarte, 33;37.160467,-5.925081;Establecimiento;De 12:00 a 24:00;Los Palacios y Villafranca
+644;ACCU Sevilla;Avda. Ramón y Cajal. Plaza Pintor Amalio García del Moral, Bq11, local 8;37.377532,-5.973723;Adaptado;;Sevilla
+645;Bar Los Benitos;Pl. La Quebrada, 1;37.833768,-6.339796;Establecimiento;de 07:00 a 17:00 y de 20:00 a 23:00 Domingos cerrado;Zufre (Huelva)
+646;Restaurante Carpe Diem Yunquera;Nacimiento, 12;36.735719,-4.917233;Establecimiento;de jueves a domingo de 12:00 a 20:00 resto cerrado;Yunquera (Málaga)
+647;Taberna Alegría;Trajano, s/n. -  local, 7;37.344704,-5.935208;Establecimiento;de 12:00 a 16:00 y de 20:00 a 24:00 Domingos cerrado;Montequinto (Sevilla)
+648;Aeropuerto de Jerez;Carretera N-IV, km. 628.5;36.743343,-6.065284;Adaptado;(1) Vestíbulo de facturación, frente a la multitienda. (2) Zona de embarque, una vez pasado el control de pasajeros.;Jerez de la Frontera
+649;Cervecería - Tapería Los Olmos;Corral de los Olmos, 2;37.418021,-5.970049;Establecimiento;de 12:00 a 16:00 y de 20:00 a 24:00 / lunes cerrado;Sevilla
+650;Cervecería Antonio Robles;Parque de Grazalema, 3 - local 2;37.416585,-5.972601;Establecimiento;de 12:00 a 16:00 y de 20:30 a 24:00 / domingo cerrado;Sevilla
+651;Bar Arcana;Parque de Cazorla, 6 - local;37.417777,-5.972866;Establecimiento;de 8:15 a 24:00 /  lunes cerrado;Sevilla
+652;IES Politecnico de Sevilla; Virgen de la Victoria, 50;37.375282,-6.001776;Adaptado;de lunes a viernes de 7:45 a 22:00.  Instalado en el hall principal de entrada. Pedir la llave en la oficina de secretaria, a la entrada;Sevilla
+653;Ayuntamiento;Plaza de la Iglesia, 2;37.309154,-6.113878;CentroPublico;lunes a viernes, de 9:00h a 14:00h;Almensilla
+654;Casa de la Cultura;Calle Jesús 17;37.308969,-6.115513;CentroPublico;lunes a viernes, de 9h a 14h. L, X y V de 16h a 20h.;Almensilla
+655;Centro de Bienestar Social;Calle Aire, 37-39;37.308203,-6.115003;CentroPublico;lunes a viernes de 9:00h a 14:00h;Almensilla
+656;Pabellón Municipal;Av. Francisco Verdejo, 3;37.312267,-6.116336;CentroPublico;lunes a viernes, de 16h a 22:15h;Almensilla
+657;Centro de Formación y Empleo Municipal;Calle Azahar, s/n. ;37.308564,-6.10824;CentroPublico;lunes a viernes de 9:00h a 14:00h;Almensilla
+658;Campo de Fútbol;Avenida de la Constitución, 81;37.315734,-6.115456;CentroPublico;lunes a viernes de 16:30h a 22:30h y días de partidos;Almensilla
+659;Café Bar La Pará;Parque de Doñana, local 2E;37.416878,-5.973711;Establecimiento;de 07:00 a 20:00 / Domingo cerrado;Sevilla
+660;Cervecería La 020;Paseo Manuel de Unamuno, 12;37.401112,-5.940865;Establecimiento;de 13:00 a 24:00 / Martes cerrado;Sevilla
+661;Churrería Menta y Chocolate;Diego Ortiz de Melgarejo, 8 - local A y B;37.402728,-5.968832;Establecimiento;de 07:00 a 14:00 / Martes cerrado;Sevilla
+662;Autoescuela T. Estrella;Estrella Canopus, 9 - local 12;37.42339,-5.970907;Establecimiento;de 10 a 13 y de 17:30 a 20:00 / sab. y dom. Cerrado;Sevilla
+663;Cervecería El Pozito;Victoria Kent, local 648;37.414842,-5.97417;Establecimiento;de 07:30 a 21:00;Sevilla
+664;Café y Copas Los Cuña2;Estrella Canopus, 7;37.422911,-5.971188;Establecimiento;de 07:00 a 22:00;Sevilla
+665;La Mar de Gambas;Parque de Grazalema, 1;37.416431,-5.973539;Establecimiento;de 12:00 a 17:00 y de 20:00 a 24:00;Sevilla
+666;MARCA-T;Agricultores, 25;37.426709,-5.965051;Establecimiento;de 09:00 a 14:00 y de 17:30 a 19:30;Sevilla
+667;Farmacia Alicia Fajardo González;Parque de Doñana, 2;37.417153,-5.973569;Establecimiento;de 09:30 a 14:00 y de 17:30 a 20:30;Sevilla
+668;El Cortijito;La Carrera, 3;37.710361,-5.3452;Establecimiento;de 08:30 a 23:00;Peñaflor
+669;Bar El Trastero;Avda. San Fernando, 14;37.709552,-5.343981;Establecimiento;;Peñaflor
+670;Bodeguita El Pendingue;San Antonio, 17;37.71008,-5.346262;Establecimiento;;Peñaflor
+671;Peña Cultural Sevillista Las Maravillas;Corral de las Maravillas, 1;37.420270,-5.968856;Establecimiento;;Sevilla
+672;La Suculenta Pastelería Artesanal;Corral del Agua, 15;37.421541,-5.971775;Establecimiento;10:30-14:00 y 16:00-20:00 lunes cerrado;Sevilla
+673;Cínica del Pie;Estrrella Canopus, Manz. O2, Bq.7, lc.6;37.423250,-5.970919;Establecimiento;;Sevilla
+674;Restaurante La Ventana;Paseo de los Alcaldes, s/n.;37.832776, -6.340523;Establecimiento;de 07.00 a 24.00 - martes cerrado;Zufre
+675;Ayuntamiento;Plaza de España, 6;37.707274,-5.346664;CentroPublico;lunes a viernes 8:00 - 15:00;Peñaflor
+676;Servicios Sociales;Plaza de la Libertad José Francisco López Muñoz, s/n;37.707770,-5.341445;CentroPublico;lunes a viernes 8:00 - 15:00;Peñaflor
+677;Centro de Salud;Calle Feria, s/n;37.707926,-5.341881;CentroPublico;de lunes a jueves 8:00 - 20:00 viernes 8:00 - 15:00;Peñaflor
+678;Casa de la Juventud;Calle Málaga, 3;37.709449,-5.343062;CentroPublico;viernes y sábados 16:00 - 24:00 Domingo 16:00 - 22:00;Peñaflor
+679;Biblioteca Municipal Antonio Machado;Plaza de España, 1;37.707412,-5.347243;CentroPublico;10:00 - 13:00 / 17:00 - 20:00;Peñaflor
+680;Punto Vuela (Guadalinfo);Calle Ramón y Cajal, 77;37.708556,-5.349113;CentroPublico;lunes a viernes 8:00 - 15:00;Peñaflor
+681;Polideportivo Municipal â€œAlcalde Moisés Ruizâ€;Calle Almenara, s/n;37.712027,-5.350892;CentroPublico;lunes a sábado 7:00 - 14:00 / 16:00 - 22:00;Peñaflor
+682;Oficina de Turismo;Plaza de España, 1;37.707129,-5.347057;CentroPublico;sábados y domingos 10:00 - 14:00;Peñaflor
+683;Bar Restaurante Javier;Av. Juan Ramón Jiménez, m12;37.895273,-6.505185;Establecimiento;dde 09.00 a 18.00 Lunes cerrado;Corteconcepción
+684;RIBES & CASALS;Polg. Ind. La Negrilla, c/. Linotipia, 26;37.383520,-5.929805;Establecimiento;De L a V 9:30-14:00 y 16:30-20:00 / S de 10:00-14:00;Sevilla
+685;Playa Central de Isla Cristina;Av. de la Playa, 1A;37.196172,-7.305473;Adaptado;14/junio al 15/septiembre 11:30 a 19:30;Isla Cristina, Huelva
+686;Clínica Dental Sonrisas;Calle de Alcalá, 200;40.4208,-3.6690;Adaptado;L-V 9:00-21:00;Madrid
